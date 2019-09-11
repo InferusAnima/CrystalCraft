@@ -1,0 +1,82 @@
+{
+  "_fv": 3,
+  "_type": "block",
+  "definition": {
+    "texture": "crystal_ore",
+    "textureTop": "crystal_ore",
+    "textureLeft": "crystal_ore",
+    "textureFront": "crystal_ore",
+    "textureRight": "crystal_ore",
+    "textureBack": "crystal_ore",
+    "renderType": 11,
+    "customModelName": "Single texture",
+    "rotationMode": 0,
+    "hasTransparency": false,
+    "transparencyType": "SOLID",
+    "mx": 0.0,
+    "my": 0.0,
+    "mz": 0.0,
+    "Mx": 1.0,
+    "My": 1.0,
+    "Mz": 1.0,
+    "name": "Crystal Ore",
+    "specialInfo": [],
+    "hardness": 2.0,
+    "resistance": 10.0,
+    "hasGravity": false,
+    "creativeTab": {
+      "value": "CUSTOM:CrystalTab"
+    },
+    "destroyTool": "pickaxe",
+    "affectedBySilkTouch": true,
+    "hasCustomDrop": true,
+    "customDrop": {
+      "value": "CUSTOM:CrystalIngot"
+    },
+    "dropAmount": 1,
+    "isBeaconBase": false,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canProvidePower": false,
+    "lightOpacity": 255,
+    "material": {
+      "value": "ROCK"
+    },
+    "tickRate": 10,
+    "isNotColidable": false,
+    "soundOnStep": {
+      "value": "STONE"
+    },
+    "luminance": 0.0,
+    "unbreakable": false,
+    "breakHarvestLevel": 3,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "CRIT_MAGIC"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.999999998509884,
+    "particleAmount": 10,
+    "particleSpawningCondition": "ALWAYS",
+    "hasInventory": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restricPerBiome": false,
+    "restrictionBiomes": [],
+    "blocksToReplace": [
+      {
+        "value": "Blocks.STONE"
+      }
+    ],
+    "frequencyPerChunks": 32,
+    "frequencyOnChunk": 20,
+    "minGenerateHeight": 10,
+    "maxGenerateHeight": 85
+  }
+}

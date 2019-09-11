@@ -1,0 +1,11 @@
+{
+  "_fv": 3,
+  "_type": "tab",
+  "definition": {
+    "name": "Crystal Craft",
+    "icon": {
+      "value": "CUSTOM:CrystalIngot"
+    },
+    "showSearch": true
+  }
+}

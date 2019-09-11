@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "crystalcraft:blocks/crystal_ore",
+    "particle": "crystalcraft:blocks/crystal_ore"
+  }
+}

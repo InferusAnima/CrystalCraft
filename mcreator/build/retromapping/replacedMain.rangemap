@@ -1,0 +1,939 @@
+Unsupposrted library path: C:\Users\ivan2\Documents\GitHub\CrystalCraft\mcreator\build\classes\java\api
+Unsupposrted library path: C:\Users\ivan2\Documents\GitHub\CrystalCraft\mcreator\build\resources\api
+Symbol range map extraction starting
+Processing 8 files
+startProcessing "net/mcreator/crystalcraft/ClientProxycrystalcraft.java" md5: 30b39de2c62ebec7f9d823d13648ee8c
+@|net/mcreator/crystalcraft/ClientProxycrystalcraft.java|8|33|net.mcreator.crystalcraft|package|net.mcreator.crystalcraft|(file)
+Class Start: net.mcreator.crystalcraft.ClientProxycrystalcraft
+   @|net/mcreator/crystalcraft/ClientProxycrystalcraft.java|247|270|ClientProxycrystalcraft|class|net.mcreator.crystalcraft.ClientProxycrystalcraft|false
+   @|net/mcreator/crystalcraft/ClientProxycrystalcraft.java|279|302|CommonProxycrystalcraft|class|net.mcreator.crystalcraft.CommonProxycrystalcraft|false
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|net/mcreator/crystalcraft/ClientProxycrystalcraft.java|361|366|event|param|net.mcreator.crystalcraft.ClientProxycrystalcraft|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|net/mcreator/crystalcraft/ClientProxycrystalcraft.java|310|318|Override|class|java.lang.Override|false
+      @|net/mcreator/crystalcraft/ClientProxycrystalcraft.java|333|337|init|method|net.mcreator.crystalcraft.CommonProxycrystalcraft|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|net/mcreator/crystalcraft/ClientProxycrystalcraft.java|338|360|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent|false
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|net/mcreator/crystalcraft/ClientProxycrystalcraft.java|436|441|event|param|net.mcreator.crystalcraft.ClientProxycrystalcraft|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|net/mcreator/crystalcraft/ClientProxycrystalcraft.java|379|387|Override|class|java.lang.Override|false
+      @|net/mcreator/crystalcraft/ClientProxycrystalcraft.java|402|409|preInit|method|net.mcreator.crystalcraft.CommonProxycrystalcraft|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|net/mcreator/crystalcraft/ClientProxycrystalcraft.java|410|435|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+      @|net/mcreator/crystalcraft/ClientProxycrystalcraft.java|448|457|OBJLoader|class|net.minecraftforge.client.model.obj.OBJLoader|false
+      @|net/mcreator/crystalcraft/ClientProxycrystalcraft.java|458|466|INSTANCE|field|net.minecraftforge.client.model.obj.OBJLoader|INSTANCE
+      @|net/mcreator/crystalcraft/ClientProxycrystalcraft.java|467|476|addDomain|method|net.minecraftforge.client.model.obj.OBJLoader|addDomain|(Ljava/lang/String;)V
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+Class End  : net.mcreator.crystalcraft.ClientProxycrystalcraft
+endProcessing "net/mcreator/crystalcraft/ClientProxycrystalcraft.java"
+
+startProcessing "net/mcreator/crystalcraft/CommonProxycrystalcraft.java" md5: 8997b90c53454035a805ef2bd03bd9a2
+@|net/mcreator/crystalcraft/CommonProxycrystalcraft.java|8|33|net.mcreator.crystalcraft|package|net.mcreator.crystalcraft|(file)
+Class Start: net.mcreator.crystalcraft.CommonProxycrystalcraft
+   @|net/mcreator/crystalcraft/CommonProxycrystalcraft.java|192|215|CommonProxycrystalcraft|class|net.mcreator.crystalcraft.CommonProxycrystalcraft|false
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|net/mcreator/crystalcraft/CommonProxycrystalcraft.java|268|273|event|param|net.mcreator.crystalcraft.CommonProxycrystalcraft|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|net/mcreator/crystalcraft/CommonProxycrystalcraft.java|234|241|preInit|method|net.mcreator.crystalcraft.CommonProxycrystalcraft|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|net/mcreator/crystalcraft/CommonProxycrystalcraft.java|242|267|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|net/mcreator/crystalcraft/CommonProxycrystalcraft.java|325|330|event|param|net.mcreator.crystalcraft.CommonProxycrystalcraft|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|net/mcreator/crystalcraft/CommonProxycrystalcraft.java|297|301|init|method|net.mcreator.crystalcraft.CommonProxycrystalcraft|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|net/mcreator/crystalcraft/CommonProxycrystalcraft.java|302|324|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent|false
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+Class End  : net.mcreator.crystalcraft.CommonProxycrystalcraft
+endProcessing "net/mcreator/crystalcraft/CommonProxycrystalcraft.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorCreativeChamber.java" md5: e41955b510a6ec8115f0415c3581cfa4
+@|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|8|33|net.mcreator.crystalcraft|package|net.mcreator.crystalcraft|(file)
+Class Start: net.mcreator.crystalcraft.MCreatorCreativeChamber
+   @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|817|840|MCreatorCreativeChamber|class|net.mcreator.crystalcraft.MCreatorCreativeChamber|false
+   @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|849|872|crystalcraft.ModElement|class|net.mcreator.crystalcraft.crystalcraft.ModElement|false
+   @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|960|965|Block|class|net.minecraft.block.Block|false
+   @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|880|905|GameRegistry.ObjectHolder|class|net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder|false
+   @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|960|965|Block|class|net.minecraft.block.Block|false
+   @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|966|971|block|field|net.mcreator.crystalcraft.MCreatorCreativeChamber|block|
+   Method Start: MCreatorCreativeChamber(Lnet/mcreator/crystalcraft/crystalcraft;)V
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1028|1036|instance|param|net.mcreator.crystalcraft.MCreatorCreativeChamber|MCreatorCreativeChamber|(Lnet/mcreator/crystalcraft/crystalcraft;)V|instance|0
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|991|1014|MCreatorCreativeChamber|method|net.mcreator.crystalcraft.MCreatorCreativeChamber|MCreatorCreativeChamber|(Lnet/mcreator/crystalcraft/crystalcraft;)V
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1015|1027|crystalcraft|class|net.mcreator.crystalcraft.crystalcraft|false
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1049|1057|instance|param|net.mcreator.crystalcraft.MCreatorCreativeChamber|MCreatorCreativeChamber|(Lnet/mcreator/crystalcraft/crystalcraft;)V|instance|0
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1063|1071|instance|param|net.mcreator.crystalcraft.MCreatorCreativeChamber|MCreatorCreativeChamber|(Lnet/mcreator/crystalcraft/crystalcraft;)V|instance|0
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1072|1078|blocks|field|net.mcreator.crystalcraft.crystalcraft|blocks
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1079|1082|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1093|1104|BlockCustom|class|net.mcreator.crystalcraft.MCreatorCreativeChamber.BlockCustom|false
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1112|1120|instance|param|net.mcreator.crystalcraft.MCreatorCreativeChamber|MCreatorCreativeChamber|(Lnet/mcreator/crystalcraft/crystalcraft;)V|instance|0
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1121|1126|items|field|net.mcreator.crystalcraft.crystalcraft|items
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1127|1130|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1141|1150|ItemBlock|class|net.minecraft.item.ItemBlock|false
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1151|1156|block|field|net.mcreator.crystalcraft.MCreatorCreativeChamber|block
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1158|1173|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|setRegistryName|(Lnet/minecraft/util/ResourceLocation;)Ljava/lang/Object;
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1174|1179|block|field|net.mcreator.crystalcraft.MCreatorCreativeChamber|block
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1180|1195|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+   Method End: MCreatorCreativeChamber(Lnet/mcreator/crystalcraft/crystalcraft;)V
+   Method Start: registerModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1292|1297|event|param|net.mcreator.crystalcraft.MCreatorCreativeChamber|registerModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V|event|0
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1210|1218|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly|false
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1219|1223|Side|class|net.minecraftforge.fml.relauncher.Side|false
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1224|1230|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1235|1243|Override|class|java.lang.Override|false
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1258|1272|registerModels|method|net.mcreator.crystalcraft.crystalcraft.ModElement|registerModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1273|1291|ModelRegistryEvent|class|net.minecraftforge.client.event.ModelRegistryEvent|false
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1304|1315|ModelLoader|class|net.minecraftforge.client.model.ModelLoader|false
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1316|1346|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1347|1351|Item|class|net.minecraft.item.Item|false
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1352|1368|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1369|1374|block|field|net.mcreator.crystalcraft.MCreatorCreativeChamber|block
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1384|1405|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation|false
+   Method End: registerModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+   Class Start: net.mcreator.crystalcraft.MCreatorCreativeChamber.BlockCustom
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1486|1497|BlockCustom|class|net.mcreator.crystalcraft.MCreatorCreativeChamber.BlockCustom|false
+      @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1506|1511|Block|class|net.minecraft.block.Block|false
+      Method Start: BlockCustom()V
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1526|1537|BlockCustom|method|net.mcreator.crystalcraft.MCreatorCreativeChamber.BlockCustom|BlockCustom|()V
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1552|1560|Material|class|net.minecraft.block.material.Material|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1561|1565|IRON|field|net.minecraft.block.material.Material|IRON
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1572|1587|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1612|1630|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1655|1667|setSoundType|method|net.minecraft.block.Block|setSoundType|(Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1668|1677|SoundType|class|net.minecraft.block.SoundType|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1678|1683|METAL|field|net.minecraft.block.SoundType|METAL
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1690|1705|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1725|1736|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1746|1759|setResistance|method|net.minecraft.block.Block|setResistance|(F)Lnet/minecraft/block/Block;
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1770|1783|setLightLevel|method|net.minecraft.block.Block|setLightLevel|(F)Lnet/minecraft/block/Block;
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1796|1811|setLightOpacity|method|net.minecraft.block.Block|setLightOpacity|(I)Lnet/minecraft/block/Block;
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1820|1834|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1835|1853|MCreatorCrystalTab|class|net.mcreator.crystalcraft.MCreatorCrystalTab|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1854|1857|tab|field|net.mcreator.crystalcraft.MCreatorCrystalTab|tab
+      Method End: BlockCustom()V
+      Method Start: getBlockLayer()Lnet/minecraft/util/BlockRenderLayer;
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1871|1879|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1880|1884|Side|class|net.minecraftforge.fml.relauncher.Side|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1885|1891|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1897|1905|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1916|1932|BlockRenderLayer|class|net.minecraft.util.BlockRenderLayer|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1933|1946|getBlockLayer|method|net.minecraft.block.Block|getBlockLayer|()Lnet/minecraft/util/BlockRenderLayer;
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1962|1978|BlockRenderLayer|class|net.minecraft.util.BlockRenderLayer|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1979|1984|SOLID|field|net.minecraft.util.BlockRenderLayer|SOLID
+      Method End: getBlockLayer()Lnet/minecraft/util/BlockRenderLayer;
+      Method Start: getCollisionBoundingBox(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2096|2106|blockState|param|net.mcreator.crystalcraft.MCreatorCreativeChamber.BlockCustom|getCollisionBoundingBox|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;|blockState|0
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2121|2128|worldIn|param|net.mcreator.crystalcraft.MCreatorCreativeChamber.BlockCustom|getCollisionBoundingBox|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;|worldIn|1
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2139|2142|pos|param|net.mcreator.crystalcraft.MCreatorCreativeChamber.BlockCustom|getCollisionBoundingBox|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;|pos|2
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|1997|2005|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2010|2035|javax.annotation.Nullable|class|javax.annotation.Nullable|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2046|2059|AxisAlignedBB|class|net.minecraft.util.math.AxisAlignedBB|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2060|2083|getCollisionBoundingBox|method|net.minecraft.block.Block|getCollisionBoundingBox|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2084|2095|IBlockState|class|net.minecraft.block.state.IBlockState|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2108|2120|IBlockAccess|class|net.minecraft.world.IBlockAccess|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2130|2138|BlockPos|class|net.minecraft.util.math.BlockPos|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2157|2166|NULL_AABB|field|net.minecraft.block.Block|NULL_AABB
+      Method End: getCollisionBoundingBox(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;
+      Method Start: isPassable(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Z
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2230|2237|worldIn|param|net.mcreator.crystalcraft.MCreatorCreativeChamber.BlockCustom|isPassable|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Z|worldIn|0
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2248|2251|pos|param|net.mcreator.crystalcraft.MCreatorCreativeChamber.BlockCustom|isPassable|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Z|pos|1
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2179|2187|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2206|2216|isPassable|method|net.minecraft.block.Block|isPassable|(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Z
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2217|2229|IBlockAccess|class|net.minecraft.world.IBlockAccess|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2239|2247|BlockPos|class|net.minecraft.util.math.BlockPos|false
+      Method End: isPassable(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Z
+      Method Start: isFullCube(Lnet/minecraft/block/state/IBlockState;)Z
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2333|2338|state|param|net.mcreator.crystalcraft.MCreatorCreativeChamber.BlockCustom|isFullCube|(Lnet/minecraft/block/state/IBlockState;)Z|state|0
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2283|2291|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2310|2320|isFullCube|method|net.minecraft.block.Block|isFullCube|(Lnet/minecraft/block/state/IBlockState;)Z
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2321|2332|IBlockState|class|net.minecraft.block.state.IBlockState|false
+      Method End: isFullCube(Lnet/minecraft/block/state/IBlockState;)Z
+      Method Start: getBoundingBox(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2431|2436|state|param|net.mcreator.crystalcraft.MCreatorCreativeChamber.BlockCustom|getBoundingBox|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;|state|0
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2451|2457|source|param|net.mcreator.crystalcraft.MCreatorCreativeChamber.BlockCustom|getBoundingBox|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;|source|1
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2468|2471|pos|param|net.mcreator.crystalcraft.MCreatorCreativeChamber.BlockCustom|getBoundingBox|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;|pos|2
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2371|2379|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2390|2403|AxisAlignedBB|class|net.minecraft.util.math.AxisAlignedBB|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2404|2418|getBoundingBox|method|net.minecraft.block.Block|getBoundingBox|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2419|2430|IBlockState|class|net.minecraft.block.state.IBlockState|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2438|2450|IBlockAccess|class|net.minecraft.world.IBlockAccess|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2459|2467|BlockPos|class|net.minecraft.util.math.BlockPos|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2490|2503|AxisAlignedBB|class|net.minecraft.util.math.AxisAlignedBB|false
+      Method End: getBoundingBox(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;
+      Method Start: isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2592|2597|state|param|net.mcreator.crystalcraft.MCreatorCreativeChamber.BlockCustom|isOpaqueCube|(Lnet/minecraft/block/state/IBlockState;)Z|state|0
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2540|2548|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2567|2579|isOpaqueCube|method|net.minecraft.block.Block|isOpaqueCube|(Lnet/minecraft/block/state/IBlockState;)Z
+         @|net/mcreator/crystalcraft/MCreatorCreativeChamber.java|2580|2591|IBlockState|class|net.minecraft.block.state.IBlockState|false
+      Method End: isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z
+   Class End  : net.mcreator.crystalcraft.MCreatorCreativeChamber.BlockCustom
+Class End  : net.mcreator.crystalcraft.MCreatorCreativeChamber
+endProcessing "net/mcreator/crystalcraft/MCreatorCreativeChamber.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorCrystalIngot.java" md5: 55315bdd1e32e8bfc9da4989b2b398a4
+@|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|8|33|net.mcreator.crystalcraft|package|net.mcreator.crystalcraft|(file)
+Class Start: net.mcreator.crystalcraft.MCreatorCrystalIngot
+   @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|520|540|MCreatorCrystalIngot|class|net.mcreator.crystalcraft.MCreatorCrystalIngot|false
+   @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|549|572|crystalcraft.ModElement|class|net.mcreator.crystalcraft.crystalcraft.ModElement|false
+   @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|657|661|Item|class|net.minecraft.item.Item|false
+   @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|580|605|GameRegistry.ObjectHolder|class|net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder|false
+   @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|657|661|Item|class|net.minecraft.item.Item|false
+   @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|662|667|block|field|net.mcreator.crystalcraft.MCreatorCrystalIngot|block|
+   Method Start: MCreatorCrystalIngot(Lnet/mcreator/crystalcraft/crystalcraft;)V
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|721|729|instance|param|net.mcreator.crystalcraft.MCreatorCrystalIngot|MCreatorCrystalIngot|(Lnet/mcreator/crystalcraft/crystalcraft;)V|instance|0
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|687|707|MCreatorCrystalIngot|method|net.mcreator.crystalcraft.MCreatorCrystalIngot|MCreatorCrystalIngot|(Lnet/mcreator/crystalcraft/crystalcraft;)V
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|708|720|crystalcraft|class|net.mcreator.crystalcraft.crystalcraft|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|742|750|instance|param|net.mcreator.crystalcraft.MCreatorCrystalIngot|MCreatorCrystalIngot|(Lnet/mcreator/crystalcraft/crystalcraft;)V|instance|0
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|756|764|instance|param|net.mcreator.crystalcraft.MCreatorCrystalIngot|MCreatorCrystalIngot|(Lnet/mcreator/crystalcraft/crystalcraft;)V|instance|0
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|765|770|items|field|net.mcreator.crystalcraft.crystalcraft|items
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|771|774|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|785|795|ItemCustom|class|net.mcreator.crystalcraft.MCreatorCrystalIngot.ItemCustom|false
+   Method End: MCreatorCrystalIngot(Lnet/mcreator/crystalcraft/crystalcraft;)V
+   Method Start: registerModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|891|896|event|param|net.mcreator.crystalcraft.MCreatorCrystalIngot|registerModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V|event|0
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|809|817|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|818|822|Side|class|net.minecraftforge.fml.relauncher.Side|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|823|829|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|834|842|Override|class|java.lang.Override|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|857|871|registerModels|method|net.mcreator.crystalcraft.crystalcraft.ModElement|registerModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|872|890|ModelRegistryEvent|class|net.minecraftforge.client.event.ModelRegistryEvent|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|903|914|ModelLoader|class|net.minecraftforge.client.model.ModelLoader|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|915|945|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|946|951|block|field|net.mcreator.crystalcraft.MCreatorCrystalIngot|block
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|960|981|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation|false
+   Method End: registerModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+   Class Start: net.mcreator.crystalcraft.MCreatorCrystalIngot.ItemCustom
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1054|1064|ItemCustom|class|net.mcreator.crystalcraft.MCreatorCrystalIngot.ItemCustom|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1073|1077|Item|class|net.minecraft.item.Item|false
+      Method Start: ItemCustom()V
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1092|1102|ItemCustom|method|net.mcreator.crystalcraft.MCreatorCrystalIngot.ItemCustom|ItemCustom|()V
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1111|1123|setMaxDamage|method|net.minecraft.item.Item|setMaxDamage|(I)Lnet/minecraft/item/Item;
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1132|1144|maxStackSize|field|net.minecraft.item.Item|maxStackSize
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1155|1173|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1195|1210|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1232|1246|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1247|1265|MCreatorCrystalTab|class|net.mcreator.crystalcraft.MCreatorCrystalTab|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1266|1269|tab|field|net.mcreator.crystalcraft.MCreatorCrystalTab|tab
+      Method End: ItemCustom()V
+      Method Start: getItemEnchantability()I
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1283|1291|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1306|1327|getItemEnchantability|method|net.minecraft.item.Item|getItemEnchantability|()I
+      Method End: getItemEnchantability()I
+      Method Start: getMaxItemUseDuration(Lnet/minecraft/item/ItemStack;)I
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1412|1425|par1ItemStack|param|net.mcreator.crystalcraft.MCreatorCrystalIngot.ItemCustom|getMaxItemUseDuration|(Lnet/minecraft/item/ItemStack;)I|par1ItemStack|0
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1357|1365|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1380|1401|getMaxItemUseDuration|method|net.minecraft.item.Item|getMaxItemUseDuration|(Lnet/minecraft/item/ItemStack;)I
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1402|1411|ItemStack|class|net.minecraft.item.ItemStack|false
+      Method End: getMaxItemUseDuration(Lnet/minecraft/item/ItemStack;)I
+      Method Start: getDestroySpeed(Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1505|1518|par1ItemStack|param|net.mcreator.crystalcraft.MCreatorCrystalIngot.ItemCustom|getDestroySpeed|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F|par1ItemStack|0
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1532|1541|par2Block|param|net.mcreator.crystalcraft.MCreatorCrystalIngot.ItemCustom|getDestroySpeed|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F|par2Block|1
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1454|1462|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1479|1494|getDestroySpeed|method|net.minecraft.item.Item|getDestroySpeed|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1495|1504|ItemStack|class|net.minecraft.item.ItemStack|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalIngot.java|1520|1531|IBlockState|class|net.minecraft.block.state.IBlockState|false
+      Method End: getDestroySpeed(Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F
+   Class End  : net.mcreator.crystalcraft.MCreatorCrystalIngot.ItemCustom
+Class End  : net.mcreator.crystalcraft.MCreatorCrystalIngot
+endProcessing "net/mcreator/crystalcraft/MCreatorCrystalIngot.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorCrystalOre.java" md5: 3a9c3e539a757a9a66ff406b1a5694eb
+@|net/mcreator/crystalcraft/MCreatorCrystalOre.java|8|33|net.mcreator.crystalcraft|package|net.mcreator.crystalcraft|(file)
+Class Start: net.mcreator.crystalcraft.MCreatorCrystalOre
+   @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1238|1256|MCreatorCrystalOre|class|net.mcreator.crystalcraft.MCreatorCrystalOre|false
+   @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1265|1288|crystalcraft.ModElement|class|net.mcreator.crystalcraft.crystalcraft.ModElement|false
+   @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1371|1376|Block|class|net.minecraft.block.Block|false
+   @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1296|1321|GameRegistry.ObjectHolder|class|net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder|false
+   @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1371|1376|Block|class|net.minecraft.block.Block|false
+   @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1377|1382|block|field|net.mcreator.crystalcraft.MCreatorCrystalOre|block|
+   Method Start: MCreatorCrystalOre(Lnet/mcreator/crystalcraft/crystalcraft;)V
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1434|1442|instance|param|net.mcreator.crystalcraft.MCreatorCrystalOre|MCreatorCrystalOre|(Lnet/mcreator/crystalcraft/crystalcraft;)V|instance|0
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1402|1420|MCreatorCrystalOre|method|net.mcreator.crystalcraft.MCreatorCrystalOre|MCreatorCrystalOre|(Lnet/mcreator/crystalcraft/crystalcraft;)V
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1421|1433|crystalcraft|class|net.mcreator.crystalcraft.crystalcraft|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1455|1463|instance|param|net.mcreator.crystalcraft.MCreatorCrystalOre|MCreatorCrystalOre|(Lnet/mcreator/crystalcraft/crystalcraft;)V|instance|0
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1469|1477|instance|param|net.mcreator.crystalcraft.MCreatorCrystalOre|MCreatorCrystalOre|(Lnet/mcreator/crystalcraft/crystalcraft;)V|instance|0
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1478|1484|blocks|field|net.mcreator.crystalcraft.crystalcraft|blocks
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1485|1488|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1499|1510|BlockCustom|class|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1518|1526|instance|param|net.mcreator.crystalcraft.MCreatorCrystalOre|MCreatorCrystalOre|(Lnet/mcreator/crystalcraft/crystalcraft;)V|instance|0
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1527|1532|items|field|net.mcreator.crystalcraft.crystalcraft|items
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1533|1536|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1547|1556|ItemBlock|class|net.minecraft.item.ItemBlock|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1557|1562|block|field|net.mcreator.crystalcraft.MCreatorCrystalOre|block
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1564|1579|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|setRegistryName|(Lnet/minecraft/util/ResourceLocation;)Ljava/lang/Object;
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1580|1585|block|field|net.mcreator.crystalcraft.MCreatorCrystalOre|block
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1586|1601|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+   Method End: MCreatorCrystalOre(Lnet/mcreator/crystalcraft/crystalcraft;)V
+   Method Start: registerModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1698|1703|event|param|net.mcreator.crystalcraft.MCreatorCrystalOre|registerModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V|event|0
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1616|1624|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1625|1629|Side|class|net.minecraftforge.fml.relauncher.Side|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1630|1636|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1641|1649|Override|class|java.lang.Override|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1664|1678|registerModels|method|net.mcreator.crystalcraft.crystalcraft.ModElement|registerModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1679|1697|ModelRegistryEvent|class|net.minecraftforge.client.event.ModelRegistryEvent|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1710|1721|ModelLoader|class|net.minecraftforge.client.model.ModelLoader|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1728|1758|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1759|1763|Item|class|net.minecraft.item.Item|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1764|1780|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1781|1786|block|field|net.mcreator.crystalcraft.MCreatorCrystalOre|block
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1796|1817|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation|false
+   Method End: registerModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+   Method Start: generateWorld(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1913|1919|random|param|net.mcreator.crystalcraft.MCreatorCrystalOre|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1925|1931|chunkX|param|net.mcreator.crystalcraft.MCreatorCrystalOre|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkX|1
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1937|1943|chunkZ|param|net.mcreator.crystalcraft.MCreatorCrystalOre|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkZ|2
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1951|1956|world|param|net.mcreator.crystalcraft.MCreatorCrystalOre|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1962|1967|dimID|param|net.mcreator.crystalcraft.MCreatorCrystalOre|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|dimID|4
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1985|1987|cg|param|net.mcreator.crystalcraft.MCreatorCrystalOre|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|cg|5
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2004|2006|cp|param|net.mcreator.crystalcraft.MCreatorCrystalOre|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|cp|6
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1869|1877|Override|class|java.lang.Override|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1892|1905|generateWorld|method|net.mcreator.crystalcraft.crystalcraft.ModElement|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1906|1912|Random|class|java.util.Random|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1945|1950|World|class|net.minecraft.world.World|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1969|1984|IChunkGenerator|class|net.minecraft.world.gen.IChunkGenerator|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|1989|2003|IChunkProvider|class|net.minecraft.world.chunk.IChunkProvider|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2055|2060|dimID|param|net.mcreator.crystalcraft.MCreatorCrystalOre|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|dimID|4
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2182|2188|chunkX|param|net.mcreator.crystalcraft.MCreatorCrystalOre|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkX|1
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2191|2197|random|param|net.mcreator.crystalcraft.MCreatorCrystalOre|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2198|2205|nextInt|method|java.util.Random|nextInt|(I)I
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2223|2229|random|param|net.mcreator.crystalcraft.MCreatorCrystalOre|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2230|2237|nextInt|method|java.util.Random|nextInt|(I)I
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2260|2266|chunkZ|param|net.mcreator.crystalcraft.MCreatorCrystalOre|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkZ|2
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2269|2275|random|param|net.mcreator.crystalcraft.MCreatorCrystalOre|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2276|2283|nextInt|method|java.util.Random|nextInt|(I)I
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2298|2313|WorldGenMinable|class|net.minecraft.world.gen.feature.WorldGenMinable|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2314|2319|block|field|net.mcreator.crystalcraft.MCreatorCrystalOre|block
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2320|2335|getDefaultState|method|net.minecraft.block.Block|getDefaultState|()Lnet/minecraft/block/state/IBlockState;
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2347|2379|com.google.common.base.Predicate|class|com.google.common.base.Predicate|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2380|2391|IBlockState|class|net.minecraft.block.state.IBlockState|false
+      Anon Class Start: net.mcreator.crystalcraft.MCreatorCrystalOre$1
+         Method Start: apply(Lnet/minecraft/block/state/IBlockState;)Z
+            @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2437|2444|blockAt|param|net.mcreator.crystalcraft.MCreatorCrystalOre$1|apply|(Lnet/minecraft/block/state/IBlockState;)Z|blockAt|0
+            @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2419|2424|apply|method|com.google.common.base.Predicate|apply|(Ljava/lang/Object;)Z
+            @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2425|2436|IBlockState|class|net.minecraft.block.state.IBlockState|false
+            @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2491|2502|IBlockState|class|net.minecraft.block.state.IBlockState|false
+            @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2522|2529|blockAt|param|net.mcreator.crystalcraft.MCreatorCrystalOre$1|apply|(Lnet/minecraft/block/state/IBlockState;)Z|blockAt|0
+            @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2530|2538|getBlock|method|net.minecraft.block.state.IBlockState|getBlock|()Lnet/minecraft/block/Block;
+            @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2544|2550|Blocks|class|net.minecraft.init.Blocks|false
+            @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2551|2556|STONE|field|net.minecraft.init.Blocks|STONE
+            @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2557|2572|getDefaultState|method|net.minecraft.block.Block|getDefaultState|()Lnet/minecraft/block/state/IBlockState;
+            @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2575|2583|getBlock|method|net.minecraft.block.state.IBlockState|getBlock|()Lnet/minecraft/block/Block;
+         Method End: apply(Lnet/minecraft/block/state/IBlockState;)Z
+      Anon Class End: net.mcreator.crystalcraft.MCreatorCrystalOre$1
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2659|2667|generate|method|net.minecraft.world.gen.feature.WorldGenerator|generate|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)Z
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2668|2673|world|param|net.mcreator.crystalcraft.MCreatorCrystalOre|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2675|2681|random|param|net.mcreator.crystalcraft.MCreatorCrystalOre|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2687|2695|BlockPos|class|net.minecraft.util.math.BlockPos|false
+   Method End: generateWorld(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+   Class Start: net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2740|2751|BlockCustom|class|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2760|2765|Block|class|net.minecraft.block.Block|false
+      Method Start: BlockCustom()V
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2780|2791|BlockCustom|method|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|BlockCustom|()V
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2806|2814|Material|class|net.minecraft.block.material.Material|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2815|2819|ROCK|field|net.minecraft.block.material.Material|ROCK
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2826|2841|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2861|2879|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2899|2911|setSoundType|method|net.minecraft.block.Block|setSoundType|(Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2912|2921|SoundType|class|net.minecraft.block.SoundType|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2922|2927|STONE|field|net.minecraft.block.SoundType|STONE
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2934|2949|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2969|2980|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|2990|3003|setResistance|method|net.minecraft.block.Block|setResistance|(F)Lnet/minecraft/block/Block;
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3014|3027|setLightLevel|method|net.minecraft.block.Block|setLightLevel|(F)Lnet/minecraft/block/Block;
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3037|3052|setLightOpacity|method|net.minecraft.block.Block|setLightOpacity|(I)Lnet/minecraft/block/Block;
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3063|3077|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3078|3096|MCreatorCrystalTab|class|net.mcreator.crystalcraft.MCreatorCrystalTab|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3097|3100|tab|field|net.mcreator.crystalcraft.MCreatorCrystalTab|tab
+      Method End: BlockCustom()V
+      Method Start: getBlockLayer()Lnet/minecraft/util/BlockRenderLayer;
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3114|3122|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3123|3127|Side|class|net.minecraftforge.fml.relauncher.Side|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3128|3134|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3140|3148|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3159|3175|BlockRenderLayer|class|net.minecraft.util.BlockRenderLayer|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3176|3189|getBlockLayer|method|net.minecraft.block.Block|getBlockLayer|()Lnet/minecraft/util/BlockRenderLayer;
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3205|3221|BlockRenderLayer|class|net.minecraft.util.BlockRenderLayer|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3222|3227|SOLID|field|net.minecraft.util.BlockRenderLayer|SOLID
+      Method End: getBlockLayer()Lnet/minecraft/util/BlockRenderLayer;
+      Method Start: getDrops(Lnet/minecraft/util/NonNullList;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)V
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3296|3301|drops|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|getDrops|(Lnet/minecraft/util/NonNullList;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)V|drops|0
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3316|3321|world|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|getDrops|(Lnet/minecraft/util/NonNullList;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)V|world|1
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3332|3335|pos|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|getDrops|(Lnet/minecraft/util/NonNullList;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)V|pos|2
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3349|3354|state|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|getDrops|(Lnet/minecraft/util/NonNullList;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)V|state|3
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3360|3367|fortune|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|getDrops|(Lnet/minecraft/util/NonNullList;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)V|fortune|4
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3240|3248|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3264|3272|getDrops|method|net.minecraft.block.Block|getDrops|(Lnet/minecraft/util/NonNullList;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)V
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3273|3284|NonNullList|class|net.minecraft.util.NonNullList|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3285|3294|ItemStack|class|net.minecraft.item.ItemStack|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3303|3315|IBlockAccess|class|net.minecraft.world.IBlockAccess|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3323|3331|BlockPos|class|net.minecraft.util.math.BlockPos|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3337|3348|IBlockState|class|net.minecraft.block.state.IBlockState|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3375|3380|drops|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|getDrops|(Lnet/minecraft/util/NonNullList;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)V|drops|0
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3381|3384|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3389|3398|ItemStack|class|net.minecraft.item.ItemStack|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3399|3419|MCreatorCrystalIngot|class|net.mcreator.crystalcraft.MCreatorCrystalIngot|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3420|3425|block|field|net.mcreator.crystalcraft.MCreatorCrystalIngot|block
+      Method End: getDrops(Lnet/minecraft/util/NonNullList;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)V
+      Method Start: randomDisplayTick(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3531|3536|state|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|state|0
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3544|3549|world|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|world|1
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3560|3563|pos|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|pos|2
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3572|3578|random|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|random|3
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3451|3459|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3460|3464|Side|class|net.minecraftforge.fml.relauncher.Side|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3465|3471|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3477|3485|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3501|3518|randomDisplayTick|method|net.minecraft.block.Block|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3519|3530|IBlockState|class|net.minecraft.block.state.IBlockState|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3538|3543|World|class|net.minecraft.world.World|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3551|3559|BlockPos|class|net.minecraft.util.math.BlockPos|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3565|3571|Random|class|java.util.Random|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3592|3609|randomDisplayTick|method|net.minecraft.block.Block|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3610|3615|state|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|state|0
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3617|3622|world|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|world|1
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3624|3627|pos|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|pos|2
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3629|3635|random|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|random|3
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3642|3654|EntityPlayer|class|net.minecraft.entity.player.EntityPlayer|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3664|3673|Minecraft|class|net.minecraft.client.Minecraft|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3674|3686|getMinecraft|method|net.minecraft.client.Minecraft|getMinecraft|()Lnet/minecraft/client/Minecraft;
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3689|3695|player|field|net.minecraft.client.Minecraft|player
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3709|3712|pos|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|pos|2
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3713|3717|getX|method|net.minecraft.util.math.Vec3i|getX|()I
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3733|3736|pos|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|pos|2
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3737|3741|getY|method|net.minecraft.util.math.Vec3i|getY|()I
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3757|3760|pos|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|pos|2
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3761|3765|getZ|method|net.minecraft.util.math.Vec3i|getZ|()I
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3773|3778|Block|class|net.minecraft.block.Block|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3928|3934|random|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|random|3
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3935|3944|nextFloat|method|java.util.Random|nextFloat|()F
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3989|3995|random|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|random|3
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|3996|4005|nextFloat|method|java.util.Random|nextFloat|()F
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|4050|4056|random|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|random|3
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|4057|4066|nextFloat|method|java.util.Random|nextFloat|()F
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|4086|4092|random|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|random|3
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|4093|4100|nextInt|method|java.util.Random|nextInt|(I)I
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|4141|4147|random|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|random|3
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|4148|4157|nextFloat|method|java.util.Random|nextFloat|()F
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|4218|4224|random|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|random|3
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|4225|4234|nextFloat|method|java.util.Random|nextFloat|()F
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|4295|4301|random|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|random|3
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|4302|4311|nextFloat|method|java.util.Random|nextFloat|()F
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|4350|4355|world|param|net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom|randomDisplayTick|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V|world|1
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|4356|4369|spawnParticle|method|net.minecraft.world.World|spawnParticle|(Lnet/minecraft/util/EnumParticleTypes;DDDDDD[I)V
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|4370|4387|EnumParticleTypes|class|net.minecraft.util.EnumParticleTypes|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalOre.java|4388|4398|CRIT_MAGIC|field|net.minecraft.util.EnumParticleTypes|CRIT_MAGIC
+      Method End: randomDisplayTick(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V
+   Class End  : net.mcreator.crystalcraft.MCreatorCrystalOre.BlockCustom
+Class End  : net.mcreator.crystalcraft.MCreatorCrystalOre
+endProcessing "net/mcreator/crystalcraft/MCreatorCrystalOre.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorCrystalTab.java" md5: f0a14653ae97ebd065a3cb9938e5b611
+@|net/mcreator/crystalcraft/MCreatorCrystalTab.java|8|33|net.mcreator.crystalcraft|package|net.mcreator.crystalcraft|(file)
+Class Start: net.mcreator.crystalcraft.MCreatorCrystalTab
+   @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|241|259|MCreatorCrystalTab|class|net.mcreator.crystalcraft.MCreatorCrystalTab|false
+   @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|268|291|crystalcraft.ModElement|class|net.mcreator.crystalcraft.crystalcraft.ModElement|false
+   Method Start: MCreatorCrystalTab(Lnet/mcreator/crystalcraft/crystalcraft;)V
+      @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|337|345|instance|param|net.mcreator.crystalcraft.MCreatorCrystalTab|MCreatorCrystalTab|(Lnet/mcreator/crystalcraft/crystalcraft;)V|instance|0
+      @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|305|323|MCreatorCrystalTab|method|net.mcreator.crystalcraft.MCreatorCrystalTab|MCreatorCrystalTab|(Lnet/mcreator/crystalcraft/crystalcraft;)V
+      @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|324|336|crystalcraft|class|net.mcreator.crystalcraft.crystalcraft|false
+      @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|358|366|instance|param|net.mcreator.crystalcraft.MCreatorCrystalTab|MCreatorCrystalTab|(Lnet/mcreator/crystalcraft/crystalcraft;)V|instance|0
+   Method End: MCreatorCrystalTab(Lnet/mcreator/crystalcraft/crystalcraft;)V
+   @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|391|403|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+   @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|391|403|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+   @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|404|407|tab|field|net.mcreator.crystalcraft.MCreatorCrystalTab|tab|
+   @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|414|426|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+   Anon Class Start: net.mcreator.crystalcraft.MCreatorCrystalTab$1
+      Method Start: getTabIconItem()Lnet/minecraft/item/ItemStack;
+         @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|452|460|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|461|465|Side|class|net.minecraftforge.fml.relauncher.Side|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|466|472|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+         @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|478|486|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|497|506|ItemStack|class|net.minecraft.item.ItemStack|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|507|521|getTabIconItem|method|net.minecraft.creativetab.CreativeTabs|getTabIconItem|()Lnet/minecraft/item/ItemStack;
+         @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|541|550|ItemStack|class|net.minecraft.item.ItemStack|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|551|571|MCreatorCrystalIngot|class|net.mcreator.crystalcraft.MCreatorCrystalIngot|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|572|577|block|field|net.mcreator.crystalcraft.MCreatorCrystalIngot|block
+      Method End: getTabIconItem()Lnet/minecraft/item/ItemStack;
+      Method Start: hasSearchBar()Z
+         @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|602|610|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|611|615|Side|class|net.minecraftforge.fml.relauncher.Side|false
+         @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|616|622|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+         @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|642|654|hasSearchBar|method|net.minecraft.creativetab.CreativeTabs|hasSearchBar|()Z
+      Method End: hasSearchBar()Z
+   Anon Class End: net.mcreator.crystalcraft.MCreatorCrystalTab$1
+   @|net/mcreator/crystalcraft/MCreatorCrystalTab.java|685|707|setBackgroundImageName|method|net.minecraft.creativetab.CreativeTabs|setBackgroundImageName|(Ljava/lang/String;)Lnet/minecraft/creativetab/CreativeTabs;
+Class End  : net.mcreator.crystalcraft.MCreatorCrystalTab
+endProcessing "net/mcreator/crystalcraft/MCreatorCrystalTab.java"
+
+startProcessing "net/mcreator/crystalcraft/crystalcraft.java" md5: c29b61edc47f6e19a176f8a6a01474aa
+@|net/mcreator/crystalcraft/crystalcraft.java|8|33|net.mcreator.crystalcraft|package|net.mcreator.crystalcraft|(file)
+Class Start: net.mcreator.crystalcraft.crystalcraft
+   @|net/mcreator/crystalcraft/crystalcraft.java|1661|1664|Mod|class|net.minecraftforge.fml.common.Mod|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|1665|1670|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|net/mcreator/crystalcraft/crystalcraft.java|1673|1685|crystalcraft|class|net.mcreator.crystalcraft.crystalcraft|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|1686|1691|MODID|field|net.mcreator.crystalcraft.crystalcraft|MODID
+   @|net/mcreator/crystalcraft/crystalcraft.java|1693|1700|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|net/mcreator/crystalcraft/crystalcraft.java|1703|1715|crystalcraft|class|net.mcreator.crystalcraft.crystalcraft|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|1716|1723|VERSION|field|net.mcreator.crystalcraft.crystalcraft|VERSION
+   @|net/mcreator/crystalcraft/crystalcraft.java|1739|1751|crystalcraft|class|net.mcreator.crystalcraft.crystalcraft|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|1763|1775|IFuelHandler|class|net.minecraftforge.fml.common.IFuelHandler|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|1777|1792|IWorldGenerator|class|net.minecraftforge.fml.common.IWorldGenerator|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|1819|1825|String|class|java.lang.String|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|1819|1825|String|class|java.lang.String|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|1826|1831|MODID|field|net.mcreator.crystalcraft.crystalcraft|MODID|
+   @|net/mcreator/crystalcraft/crystalcraft.java|1872|1878|String|class|java.lang.String|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|1872|1878|String|class|java.lang.String|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|1879|1886|VERSION|field|net.mcreator.crystalcraft.crystalcraft|VERSION|
+   @|net/mcreator/crystalcraft/crystalcraft.java|2060|2083|CommonProxycrystalcraft|class|net.mcreator.crystalcraft.CommonProxycrystalcraft|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|1901|1911|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|1912|1922|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|net/mcreator/crystalcraft/crystalcraft.java|1978|1988|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|net/mcreator/crystalcraft/crystalcraft.java|2060|2083|CommonProxycrystalcraft|class|net.mcreator.crystalcraft.CommonProxycrystalcraft|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2084|2089|proxy|field|net.mcreator.crystalcraft.crystalcraft|proxy|
+   @|net/mcreator/crystalcraft/crystalcraft.java|2126|2138|crystalcraft|class|net.mcreator.crystalcraft.crystalcraft|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2094|2102|Instance|class|net.minecraftforge.fml.common.Mod.Instance|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2103|2108|MODID|field|net.mcreator.crystalcraft.crystalcraft|MODID
+   @|net/mcreator/crystalcraft/crystalcraft.java|2126|2138|crystalcraft|class|net.mcreator.crystalcraft.crystalcraft|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2139|2147|instance|field|net.mcreator.crystalcraft.crystalcraft|instance|
+   @|net/mcreator/crystalcraft/crystalcraft.java|2169|2179|ModElement|class|net.mcreator.crystalcraft.crystalcraft.ModElement|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2164|2168|List|class|java.util.List|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2164|2168|List|class|java.util.List|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2169|2179|ModElement|class|net.mcreator.crystalcraft.crystalcraft.ModElement|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2181|2189|elements|field|net.mcreator.crystalcraft.crystalcraft|elements|
+   @|net/mcreator/crystalcraft/crystalcraft.java|2196|2205|ArrayList|class|java.util.ArrayList|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2240|2245|Block|class|net.minecraft.block.Block|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2231|2239|Supplier|class|java.util.function.Supplier|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2226|2230|List|class|java.util.List|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2226|2230|List|class|java.util.List|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2231|2239|Supplier|class|java.util.function.Supplier|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2240|2245|Block|class|net.minecraft.block.Block|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2248|2254|blocks|field|net.mcreator.crystalcraft.crystalcraft|blocks|
+   @|net/mcreator/crystalcraft/crystalcraft.java|2261|2270|ArrayList|class|java.util.ArrayList|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2305|2309|Item|class|net.minecraft.item.Item|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2296|2304|Supplier|class|java.util.function.Supplier|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2291|2295|List|class|java.util.List|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2291|2295|List|class|java.util.List|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2296|2304|Supplier|class|java.util.function.Supplier|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2305|2309|Item|class|net.minecraft.item.Item|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2312|2317|items|field|net.mcreator.crystalcraft.crystalcraft|items|
+   @|net/mcreator/crystalcraft/crystalcraft.java|2324|2333|ArrayList|class|java.util.ArrayList|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2368|2373|Biome|class|net.minecraft.world.biome.Biome|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2359|2367|Supplier|class|java.util.function.Supplier|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2354|2358|List|class|java.util.List|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2354|2358|List|class|java.util.List|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2359|2367|Supplier|class|java.util.function.Supplier|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2368|2373|Biome|class|net.minecraft.world.biome.Biome|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2376|2382|biomes|field|net.mcreator.crystalcraft.crystalcraft|biomes|
+   @|net/mcreator/crystalcraft/crystalcraft.java|2389|2398|ArrayList|class|java.util.ArrayList|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2433|2444|EntityEntry|class|net.minecraftforge.fml.common.registry.EntityEntry|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2424|2432|Supplier|class|java.util.function.Supplier|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2419|2423|List|class|java.util.List|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2419|2423|List|class|java.util.List|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2424|2432|Supplier|class|java.util.function.Supplier|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2433|2444|EntityEntry|class|net.minecraftforge.fml.common.registry.EntityEntry|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2447|2455|entities|field|net.mcreator.crystalcraft.crystalcraft|entities|
+   @|net/mcreator/crystalcraft/crystalcraft.java|2462|2471|ArrayList|class|java.util.ArrayList|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2506|2512|Potion|class|net.minecraft.potion.Potion|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2497|2505|Supplier|class|java.util.function.Supplier|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2492|2496|List|class|java.util.List|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2492|2496|List|class|java.util.List|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2497|2505|Supplier|class|java.util.function.Supplier|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2506|2512|Potion|class|net.minecraft.potion.Potion|false
+   @|net/mcreator/crystalcraft/crystalcraft.java|2515|2522|potions|field|net.mcreator.crystalcraft.crystalcraft|potions|
+   @|net/mcreator/crystalcraft/crystalcraft.java|2529|2538|ArrayList|class|java.util.ArrayList|false
+   Method Start: crystalcraft()V
+      @|net/mcreator/crystalcraft/crystalcraft.java|2555|2567|crystalcraft|method|net.mcreator.crystalcraft.crystalcraft|crystalcraft|()V
+      @|net/mcreator/crystalcraft/crystalcraft.java|2575|2588|FluidRegistry|class|net.minecraftforge.fluids.FluidRegistry|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|2589|2610|enableUniversalBucket|method|net.minecraftforge.fluids.FluidRegistry|enableUniversalBucket|()V
+      @|net/mcreator/crystalcraft/crystalcraft.java|2617|2625|elements|field|net.mcreator.crystalcraft.crystalcraft|elements
+      @|net/mcreator/crystalcraft/crystalcraft.java|2626|2629|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|net/mcreator/crystalcraft/crystalcraft.java|2634|2652|MCreatorCrystalOre|class|net.mcreator.crystalcraft.MCreatorCrystalOre|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|2664|2672|elements|field|net.mcreator.crystalcraft.crystalcraft|elements
+      @|net/mcreator/crystalcraft/crystalcraft.java|2673|2676|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|net/mcreator/crystalcraft/crystalcraft.java|2681|2701|MCreatorCrystalIngot|class|net.mcreator.crystalcraft.MCreatorCrystalIngot|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|2713|2721|elements|field|net.mcreator.crystalcraft.crystalcraft|elements
+      @|net/mcreator/crystalcraft/crystalcraft.java|2722|2725|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|net/mcreator/crystalcraft/crystalcraft.java|2730|2748|MCreatorCrystalTab|class|net.mcreator.crystalcraft.MCreatorCrystalTab|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|2760|2768|elements|field|net.mcreator.crystalcraft.crystalcraft|elements
+      @|net/mcreator/crystalcraft/crystalcraft.java|2769|2772|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|net/mcreator/crystalcraft/crystalcraft.java|2777|2800|MCreatorCreativeChamber|class|net.mcreator.crystalcraft.MCreatorCreativeChamber|false
+   Method End: crystalcraft()V
+   Method Start: getBurnTime(Lnet/minecraft/item/ItemStack;)I
+      @|net/mcreator/crystalcraft/crystalcraft.java|2862|2866|fuel|param|net.mcreator.crystalcraft.crystalcraft|getBurnTime|(Lnet/minecraft/item/ItemStack;)I|fuel|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|2818|2826|Override|class|java.lang.Override|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|2840|2851|getBurnTime|method|net.minecraftforge.fml.common.IFuelHandler|getBurnTime|(Lnet/minecraft/item/ItemStack;)I
+      @|net/mcreator/crystalcraft/crystalcraft.java|2852|2861|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|2878|2888|ModElement|class|net.mcreator.crystalcraft.crystalcraft.ModElement|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|2899|2907|elements|field|net.mcreator.crystalcraft.crystalcraft|elements
+      @|net/mcreator/crystalcraft/crystalcraft.java|2933|2940|addFuel|method|net.mcreator.crystalcraft.crystalcraft.ModElement|addFuel|(Lnet/minecraft/item/ItemStack;)I
+      @|net/mcreator/crystalcraft/crystalcraft.java|2941|2945|fuel|param|net.mcreator.crystalcraft.crystalcraft|getBurnTime|(Lnet/minecraft/item/ItemStack;)I|fuel|0
+   Method End: getBurnTime(Lnet/minecraft/item/ItemStack;)I
+   Method Start: generate(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3049|3055|random|param|net.mcreator.crystalcraft.crystalcraft|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|3061|3067|chunkX|param|net.mcreator.crystalcraft.crystalcraft|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkX|1
+      @|net/mcreator/crystalcraft/crystalcraft.java|3073|3079|chunkZ|param|net.mcreator.crystalcraft.crystalcraft|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkZ|2
+      @|net/mcreator/crystalcraft/crystalcraft.java|3087|3092|world|param|net.mcreator.crystalcraft.crystalcraft|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|net/mcreator/crystalcraft/crystalcraft.java|3110|3112|cg|param|net.mcreator.crystalcraft.crystalcraft|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|cg|4
+      @|net/mcreator/crystalcraft/crystalcraft.java|3129|3131|cp|param|net.mcreator.crystalcraft.crystalcraft|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|cp|5
+      @|net/mcreator/crystalcraft/crystalcraft.java|3010|3018|Override|class|java.lang.Override|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3033|3041|generate|method|net.minecraftforge.fml.common.IWorldGenerator|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3042|3048|Random|class|java.util.Random|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3081|3086|World|class|net.minecraft.world.World|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3094|3109|IChunkGenerator|class|net.minecraft.world.gen.IChunkGenerator|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3114|3128|IChunkProvider|class|net.minecraft.world.chunk.IChunkProvider|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3138|3146|elements|field|net.mcreator.crystalcraft.crystalcraft|elements
+      @|net/mcreator/crystalcraft/crystalcraft.java|3147|3154|forEach|method|java.lang.Iterable|forEach|(Ljava/util/function/Consumer;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3166|3173|element|param|java.util.function.Consumer<net.mcreator.crystalcraft.crystalcraft.ModElement>|accept|(Lnet/mcreator/crystalcraft/crystalcraft$ModElement;)V|element|-1
+      @|net/mcreator/crystalcraft/crystalcraft.java|3174|3187|generateWorld|method|net.mcreator.crystalcraft.crystalcraft.ModElement|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3188|3194|random|param|net.mcreator.crystalcraft.crystalcraft|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|3196|3202|chunkX|param|net.mcreator.crystalcraft.crystalcraft|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkX|1
+      @|net/mcreator/crystalcraft/crystalcraft.java|3209|3215|chunkZ|param|net.mcreator.crystalcraft.crystalcraft|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkZ|2
+      @|net/mcreator/crystalcraft/crystalcraft.java|3222|3227|world|param|net.mcreator.crystalcraft.crystalcraft|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|net/mcreator/crystalcraft/crystalcraft.java|3229|3234|world|param|net.mcreator.crystalcraft.crystalcraft|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|net/mcreator/crystalcraft/crystalcraft.java|3235|3243|provider|field|net.minecraft.world.World|provider
+      @|net/mcreator/crystalcraft/crystalcraft.java|3244|3256|getDimension|method|net.minecraft.world.WorldProvider|getDimension|()I
+      @|net/mcreator/crystalcraft/crystalcraft.java|3260|3262|cg|param|net.mcreator.crystalcraft.crystalcraft|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|cg|4
+      @|net/mcreator/crystalcraft/crystalcraft.java|3264|3266|cp|param|net.mcreator.crystalcraft.crystalcraft|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|cp|5
+   Method End: generate(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+   Method Start: registerBlocks(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3353|3358|event|param|net.mcreator.crystalcraft.crystalcraft|registerBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|3279|3293|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3308|3322|registerBlocks|method|net.mcreator.crystalcraft.crystalcraft|registerBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3323|3345|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3346|3351|Block|class|net.minecraft.block.Block|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3365|3370|event|param|net.mcreator.crystalcraft.crystalcraft|registerBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|3371|3382|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3385|3396|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3397|3403|blocks|field|net.mcreator.crystalcraft.crystalcraft|blocks
+      @|net/mcreator/crystalcraft/crystalcraft.java|3404|3410|stream|method|java.util.Collection|stream|()Ljava/util/stream/Stream;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3413|3416|map|method|java.util.stream.Stream|map|(Ljava/util/function/Function;)Ljava/util/stream/Stream;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3417|3425|Supplier|class|java.util.function.Supplier|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3427|3430|get|method|java.util.function.Supplier|get|()Ljava/lang/Object;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3432|3439|toArray|method|java.util.stream.Stream|toArray|(Ljava/util/function/IntFunction;)[Ljava/lang/Object;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3440|3445|Block|class|net.minecraft.block.Block|false
+   Method End: registerBlocks(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: registerItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3537|3542|event|param|net.mcreator.crystalcraft.crystalcraft|registerItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|3465|3479|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3494|3507|registerItems|method|net.mcreator.crystalcraft.crystalcraft|registerItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3508|3530|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3531|3535|Item|class|net.minecraft.item.Item|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3549|3554|event|param|net.mcreator.crystalcraft.crystalcraft|registerItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|3555|3566|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3569|3580|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3581|3586|items|field|net.mcreator.crystalcraft.crystalcraft|items
+      @|net/mcreator/crystalcraft/crystalcraft.java|3587|3593|stream|method|java.util.Collection|stream|()Ljava/util/stream/Stream;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3596|3599|map|method|java.util.stream.Stream|map|(Ljava/util/function/Function;)Ljava/util/stream/Stream;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3600|3608|Supplier|class|java.util.function.Supplier|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3610|3613|get|method|java.util.function.Supplier|get|()Ljava/lang/Object;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3615|3622|toArray|method|java.util.stream.Stream|toArray|(Ljava/util/function/IntFunction;)[Ljava/lang/Object;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3623|3627|Item|class|net.minecraft.item.Item|false
+   Method End: registerItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: registerBiomes(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3721|3726|event|param|net.mcreator.crystalcraft.crystalcraft|registerBiomes|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|3647|3661|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3676|3690|registerBiomes|method|net.mcreator.crystalcraft.crystalcraft|registerBiomes|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3691|3713|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3714|3719|Biome|class|net.minecraft.world.biome.Biome|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3733|3738|event|param|net.mcreator.crystalcraft.crystalcraft|registerBiomes|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|3739|3750|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3753|3764|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3765|3771|biomes|field|net.mcreator.crystalcraft.crystalcraft|biomes
+      @|net/mcreator/crystalcraft/crystalcraft.java|3772|3778|stream|method|java.util.Collection|stream|()Ljava/util/stream/Stream;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3781|3784|map|method|java.util.stream.Stream|map|(Ljava/util/function/Function;)Ljava/util/stream/Stream;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3785|3793|Supplier|class|java.util.function.Supplier|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3795|3798|get|method|java.util.function.Supplier|get|()Ljava/lang/Object;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3800|3807|toArray|method|java.util.stream.Stream|toArray|(Ljava/util/function/IntFunction;)[Ljava/lang/Object;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3808|3813|Biome|class|net.minecraft.world.biome.Biome|false
+   Method End: registerBiomes(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: registerEntities(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3915|3920|event|param|net.mcreator.crystalcraft.crystalcraft|registerEntities|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|3833|3847|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3862|3878|registerEntities|method|net.mcreator.crystalcraft.crystalcraft|registerEntities|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3879|3901|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3902|3913|EntityEntry|class|net.minecraftforge.fml.common.registry.EntityEntry|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3927|3932|event|param|net.mcreator.crystalcraft.crystalcraft|registerEntities|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|3933|3944|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3947|3958|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|3959|3967|entities|field|net.mcreator.crystalcraft.crystalcraft|entities
+      @|net/mcreator/crystalcraft/crystalcraft.java|3968|3974|stream|method|java.util.Collection|stream|()Ljava/util/stream/Stream;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3977|3980|map|method|java.util.stream.Stream|map|(Ljava/util/function/Function;)Ljava/util/stream/Stream;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3981|3989|Supplier|class|java.util.function.Supplier|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|3991|3994|get|method|java.util.function.Supplier|get|()Ljava/lang/Object;
+      @|net/mcreator/crystalcraft/crystalcraft.java|3996|4003|toArray|method|java.util.stream.Stream|toArray|(Ljava/util/function/IntFunction;)[Ljava/lang/Object;
+      @|net/mcreator/crystalcraft/crystalcraft.java|4004|4015|EntityEntry|class|net.minecraftforge.fml.common.registry.EntityEntry|false
+   Method End: registerEntities(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: registerPotions(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4111|4116|event|param|net.mcreator.crystalcraft.crystalcraft|registerPotions|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|4035|4049|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4064|4079|registerPotions|method|net.mcreator.crystalcraft.crystalcraft|registerPotions|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4080|4102|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4103|4109|Potion|class|net.minecraft.potion.Potion|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4123|4128|event|param|net.mcreator.crystalcraft.crystalcraft|registerPotions|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|4129|4140|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|net/mcreator/crystalcraft/crystalcraft.java|4143|4154|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4155|4162|potions|field|net.mcreator.crystalcraft.crystalcraft|potions
+      @|net/mcreator/crystalcraft/crystalcraft.java|4163|4169|stream|method|java.util.Collection|stream|()Ljava/util/stream/Stream;
+      @|net/mcreator/crystalcraft/crystalcraft.java|4172|4175|map|method|java.util.stream.Stream|map|(Ljava/util/function/Function;)Ljava/util/stream/Stream;
+      @|net/mcreator/crystalcraft/crystalcraft.java|4176|4184|Supplier|class|java.util.function.Supplier|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4186|4189|get|method|java.util.function.Supplier|get|()Ljava/lang/Object;
+      @|net/mcreator/crystalcraft/crystalcraft.java|4191|4198|toArray|method|java.util.stream.Stream|toArray|(Ljava/util/function/IntFunction;)[Ljava/lang/Object;
+      @|net/mcreator/crystalcraft/crystalcraft.java|4199|4205|Potion|class|net.minecraft.potion.Potion|false
+   Method End: registerPotions(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: registerSounds(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4323|4328|event|param|net.mcreator.crystalcraft.crystalcraft|registerSounds|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|4225|4239|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4254|4268|registerSounds|method|net.mcreator.crystalcraft.crystalcraft|registerSounds|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4269|4291|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4292|4321|net.minecraft.util.SoundEvent|class|net.minecraft.util.SoundEvent|false
+   Method End: registerSounds(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: registerModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4429|4434|event|param|net.mcreator.crystalcraft.crystalcraft|registerModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|4341|4355|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4359|4367|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4368|4372|Side|class|net.minecraftforge.fml.relauncher.Side|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4373|4379|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|net/mcreator/crystalcraft/crystalcraft.java|4395|4409|registerModels|method|net.mcreator.crystalcraft.crystalcraft|registerModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4410|4428|ModelRegistryEvent|class|net.minecraftforge.client.event.ModelRegistryEvent|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4441|4449|elements|field|net.mcreator.crystalcraft.crystalcraft|elements
+      @|net/mcreator/crystalcraft/crystalcraft.java|4450|4457|forEach|method|java.lang.Iterable|forEach|(Ljava/util/function/Consumer;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4469|4476|element|param|java.util.function.Consumer<net.mcreator.crystalcraft.crystalcraft.ModElement>|accept|(Lnet/mcreator/crystalcraft/crystalcraft$ModElement;)V|element|-1
+      @|net/mcreator/crystalcraft/crystalcraft.java|4477|4491|registerModels|method|net.mcreator.crystalcraft.crystalcraft.ModElement|registerModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4492|4497|event|param|net.mcreator.crystalcraft.crystalcraft|registerModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V|event|0
+   Method End: registerModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4571|4576|event|param|net.mcreator.crystalcraft.crystalcraft|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|4510|4522|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4537|4544|preInit|method|net.mcreator.crystalcraft.crystalcraft|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4545|4570|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4583|4597|MinecraftForge|class|net.minecraftforge.common.MinecraftForge|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4598|4607|EVENT_BUS|field|net.minecraftforge.common.MinecraftForge|EVENT_BUS
+      @|net/mcreator/crystalcraft/crystalcraft.java|4608|4616|register|method|net.minecraftforge.fml.common.eventhandler.EventBus|register|(Ljava/lang/Object;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4627|4639|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4640|4659|registerFuelHandler|method|net.minecraftforge.fml.common.registry.GameRegistry|registerFuelHandler|(Lnet/minecraftforge/fml/common/IFuelHandler;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4670|4682|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4683|4705|registerWorldGenerator|method|net.minecraftforge.fml.common.registry.GameRegistry|registerWorldGenerator|(Lnet/minecraftforge/fml/common/IWorldGenerator;I)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4719|4734|NetworkRegistry|class|net.minecraftforge.fml.common.network.NetworkRegistry|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4735|4743|INSTANCE|field|net.minecraftforge.fml.common.network.NetworkRegistry|INSTANCE
+      @|net/mcreator/crystalcraft/crystalcraft.java|4744|4762|registerGuiHandler|method|net.minecraftforge.fml.common.network.NetworkRegistry|registerGuiHandler|(Ljava/lang/Object;Lnet/minecraftforge/fml/common/network/IGuiHandler;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4773|4783|GuiHandler|class|net.mcreator.crystalcraft.crystalcraft.GuiHandler|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4791|4799|elements|field|net.mcreator.crystalcraft.crystalcraft|elements
+      @|net/mcreator/crystalcraft/crystalcraft.java|4800|4807|forEach|method|java.lang.Iterable|forEach|(Ljava/util/function/Consumer;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4819|4826|element|param|java.util.function.Consumer<net.mcreator.crystalcraft.crystalcraft.ModElement>|accept|(Lnet/mcreator/crystalcraft/crystalcraft$ModElement;)V|element|-1
+      @|net/mcreator/crystalcraft/crystalcraft.java|4827|4834|preInit|method|net.mcreator.crystalcraft.crystalcraft.ModElement|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4835|4840|event|param|net.mcreator.crystalcraft.crystalcraft|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|4847|4852|proxy|field|net.mcreator.crystalcraft.crystalcraft|proxy
+      @|net/mcreator/crystalcraft/crystalcraft.java|4853|4860|preInit|method|net.mcreator.crystalcraft.CommonProxycrystalcraft|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4861|4866|event|param|net.mcreator.crystalcraft.crystalcraft|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4933|4938|event|param|net.mcreator.crystalcraft.crystalcraft|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|4878|4890|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4905|4909|init|method|net.mcreator.crystalcraft.crystalcraft|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4910|4932|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|4945|4953|elements|field|net.mcreator.crystalcraft.crystalcraft|elements
+      @|net/mcreator/crystalcraft/crystalcraft.java|4954|4961|forEach|method|java.lang.Iterable|forEach|(Ljava/util/function/Consumer;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4973|4980|element|param|java.util.function.Consumer<net.mcreator.crystalcraft.crystalcraft.ModElement>|accept|(Lnet/mcreator/crystalcraft/crystalcraft$ModElement;)V|element|-1
+      @|net/mcreator/crystalcraft/crystalcraft.java|4981|4985|init|method|net.mcreator.crystalcraft.crystalcraft.ModElement|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|4986|4991|event|param|net.mcreator.crystalcraft.crystalcraft|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|4998|5003|proxy|field|net.mcreator.crystalcraft.crystalcraft|proxy
+      @|net/mcreator/crystalcraft/crystalcraft.java|5004|5008|init|method|net.mcreator.crystalcraft.CommonProxycrystalcraft|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|5009|5014|event|param|net.mcreator.crystalcraft.crystalcraft|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: serverLoad(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|5087|5092|event|param|net.mcreator.crystalcraft.crystalcraft|serverLoad|(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V|event|0
+      @|net/mcreator/crystalcraft/crystalcraft.java|5026|5038|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|5053|5063|serverLoad|method|net.mcreator.crystalcraft.crystalcraft|serverLoad|(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|5064|5086|FMLServerStartingEvent|class|net.minecraftforge.fml.common.event.FMLServerStartingEvent|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|5099|5107|elements|field|net.mcreator.crystalcraft.crystalcraft|elements
+      @|net/mcreator/crystalcraft/crystalcraft.java|5108|5115|forEach|method|java.lang.Iterable|forEach|(Ljava/util/function/Consumer;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|5127|5134|element|param|java.util.function.Consumer<net.mcreator.crystalcraft.crystalcraft.ModElement>|accept|(Lnet/mcreator/crystalcraft/crystalcraft$ModElement;)V|element|-1
+      @|net/mcreator/crystalcraft/crystalcraft.java|5135|5145|serverLoad|method|net.mcreator.crystalcraft.crystalcraft.ModElement|serverLoad|(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V
+      @|net/mcreator/crystalcraft/crystalcraft.java|5146|5151|event|param|net.mcreator.crystalcraft.crystalcraft|serverLoad|(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V|event|0
+   Method End: serverLoad(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V
+   Class Start: net.mcreator.crystalcraft.crystalcraft.GuiHandler
+      @|net/mcreator/crystalcraft/crystalcraft.java|5183|5193|GuiHandler|class|net.mcreator.crystalcraft.crystalcraft.GuiHandler|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|5205|5216|IGuiHandler|class|net.minecraftforge.fml.common.network.IGuiHandler|false
+      Method Start: getServerGuiElement(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;
+         @|net/mcreator/crystalcraft/crystalcraft.java|5275|5277|id|param|net.mcreator.crystalcraft.crystalcraft.GuiHandler|getServerGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|id|0
+         @|net/mcreator/crystalcraft/crystalcraft.java|5292|5298|player|param|net.mcreator.crystalcraft.crystalcraft.GuiHandler|getServerGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|player|1
+         @|net/mcreator/crystalcraft/crystalcraft.java|5306|5311|world|param|net.mcreator.crystalcraft.crystalcraft.GuiHandler|getServerGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|world|2
+         @|net/mcreator/crystalcraft/crystalcraft.java|5317|5318|x|param|net.mcreator.crystalcraft.crystalcraft.GuiHandler|getServerGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|x|3
+         @|net/mcreator/crystalcraft/crystalcraft.java|5324|5325|y|param|net.mcreator.crystalcraft.crystalcraft.GuiHandler|getServerGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|y|4
+         @|net/mcreator/crystalcraft/crystalcraft.java|5331|5332|z|param|net.mcreator.crystalcraft.crystalcraft.GuiHandler|getServerGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|z|5
+         @|net/mcreator/crystalcraft/crystalcraft.java|5225|5233|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/crystalcraft.java|5244|5250|Object|class|java.lang.Object|false
+         @|net/mcreator/crystalcraft/crystalcraft.java|5251|5270|getServerGuiElement|method|net.minecraftforge.fml.common.network.IGuiHandler|getServerGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;
+         @|net/mcreator/crystalcraft/crystalcraft.java|5279|5291|EntityPlayer|class|net.minecraft.entity.player.EntityPlayer|false
+         @|net/mcreator/crystalcraft/crystalcraft.java|5300|5305|World|class|net.minecraft.world.World|false
+      Method End: getServerGuiElement(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;
+      Method Start: getClientGuiElement(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;
+         @|net/mcreator/crystalcraft/crystalcraft.java|5414|5416|id|param|net.mcreator.crystalcraft.crystalcraft.GuiHandler|getClientGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|id|0
+         @|net/mcreator/crystalcraft/crystalcraft.java|5431|5437|player|param|net.mcreator.crystalcraft.crystalcraft.GuiHandler|getClientGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|player|1
+         @|net/mcreator/crystalcraft/crystalcraft.java|5445|5450|world|param|net.mcreator.crystalcraft.crystalcraft.GuiHandler|getClientGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|world|2
+         @|net/mcreator/crystalcraft/crystalcraft.java|5456|5457|x|param|net.mcreator.crystalcraft.crystalcraft.GuiHandler|getClientGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|x|3
+         @|net/mcreator/crystalcraft/crystalcraft.java|5463|5464|y|param|net.mcreator.crystalcraft.crystalcraft.GuiHandler|getClientGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|y|4
+         @|net/mcreator/crystalcraft/crystalcraft.java|5470|5471|z|param|net.mcreator.crystalcraft.crystalcraft.GuiHandler|getClientGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|z|5
+         @|net/mcreator/crystalcraft/crystalcraft.java|5364|5372|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/crystalcraft.java|5383|5389|Object|class|java.lang.Object|false
+         @|net/mcreator/crystalcraft/crystalcraft.java|5390|5409|getClientGuiElement|method|net.minecraftforge.fml.common.network.IGuiHandler|getClientGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;
+         @|net/mcreator/crystalcraft/crystalcraft.java|5418|5430|EntityPlayer|class|net.minecraft.entity.player.EntityPlayer|false
+         @|net/mcreator/crystalcraft/crystalcraft.java|5439|5444|World|class|net.minecraft.world.World|false
+      Method End: getClientGuiElement(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;
+   Class End  : net.mcreator.crystalcraft.crystalcraft.GuiHandler
+   Class Start: net.mcreator.crystalcraft.crystalcraft.ModElement
+      @|net/mcreator/crystalcraft/crystalcraft.java|5525|5535|ModElement|class|net.mcreator.crystalcraft.crystalcraft.ModElement|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|5557|5569|crystalcraft|class|net.mcreator.crystalcraft.crystalcraft|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|5557|5569|crystalcraft|class|net.mcreator.crystalcraft.crystalcraft|false
+      @|net/mcreator/crystalcraft/crystalcraft.java|5570|5578|instance|field|net.mcreator.crystalcraft.crystalcraft.ModElement|instance|
+      Method Start: ModElement(Lnet/mcreator/crystalcraft/crystalcraft;)V
+         @|net/mcreator/crystalcraft/crystalcraft.java|5616|5624|instance|param|net.mcreator.crystalcraft.crystalcraft.ModElement|ModElement|(Lnet/mcreator/crystalcraft/crystalcraft;)V|instance|0
+         @|net/mcreator/crystalcraft/crystalcraft.java|5592|5602|ModElement|method|net.mcreator.crystalcraft.crystalcraft.ModElement|ModElement|(Lnet/mcreator/crystalcraft/crystalcraft;)V
+         @|net/mcreator/crystalcraft/crystalcraft.java|5603|5615|crystalcraft|class|net.mcreator.crystalcraft.crystalcraft|false
+         @|net/mcreator/crystalcraft/crystalcraft.java|5637|5645|instance|field|net.mcreator.crystalcraft.crystalcraft.ModElement|instance
+         @|net/mcreator/crystalcraft/crystalcraft.java|5648|5656|instance|param|net.mcreator.crystalcraft.crystalcraft.ModElement|ModElement|(Lnet/mcreator/crystalcraft/crystalcraft;)V|instance|0
+      Method End: ModElement(Lnet/mcreator/crystalcraft/crystalcraft;)V
+      Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+         @|net/mcreator/crystalcraft/crystalcraft.java|5708|5713|event|param|net.mcreator.crystalcraft.crystalcraft.ModElement|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+         @|net/mcreator/crystalcraft/crystalcraft.java|5680|5684|init|method|net.mcreator.crystalcraft.crystalcraft.ModElement|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+         @|net/mcreator/crystalcraft/crystalcraft.java|5685|5707|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent|false
+      Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+         @|net/mcreator/crystalcraft/crystalcraft.java|5773|5778|event|param|net.mcreator.crystalcraft.crystalcraft.ModElement|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+         @|net/mcreator/crystalcraft/crystalcraft.java|5739|5746|preInit|method|net.mcreator.crystalcraft.crystalcraft.ModElement|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+         @|net/mcreator/crystalcraft/crystalcraft.java|5747|5772|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+      Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      Method Start: generateWorld(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+         @|net/mcreator/crystalcraft/crystalcraft.java|5825|5831|random|param|net.mcreator.crystalcraft.crystalcraft.ModElement|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+         @|net/mcreator/crystalcraft/crystalcraft.java|5837|5841|posX|param|net.mcreator.crystalcraft.crystalcraft.ModElement|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|posX|1
+         @|net/mcreator/crystalcraft/crystalcraft.java|5847|5851|posZ|param|net.mcreator.crystalcraft.crystalcraft.ModElement|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|posZ|2
+         @|net/mcreator/crystalcraft/crystalcraft.java|5859|5864|world|param|net.mcreator.crystalcraft.crystalcraft.ModElement|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+         @|net/mcreator/crystalcraft/crystalcraft.java|5870|5875|dimID|param|net.mcreator.crystalcraft.crystalcraft.ModElement|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|dimID|4
+         @|net/mcreator/crystalcraft/crystalcraft.java|5893|5895|cg|param|net.mcreator.crystalcraft.crystalcraft.ModElement|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|cg|5
+         @|net/mcreator/crystalcraft/crystalcraft.java|5912|5914|cp|param|net.mcreator.crystalcraft.crystalcraft.ModElement|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|cp|6
+         @|net/mcreator/crystalcraft/crystalcraft.java|5804|5817|generateWorld|method|net.mcreator.crystalcraft.crystalcraft.ModElement|generateWorld|(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+         @|net/mcreator/crystalcraft/crystalcraft.java|5818|5824|Random|class|java.util.Random|false
+         @|net/mcreator/crystalcraft/crystalcraft.java|5853|5858|World|class|net.minecraft.world.World|false
+         @|net/mcreator/crystalcraft/crystalcraft.java|5877|5892|IChunkGenerator|class|net.minecraft.world.gen.IChunkGenerator|false
+         @|net/mcreator/crystalcraft/crystalcraft.java|5897|5911|IChunkProvider|class|net.minecraft.world.chunk.IChunkProvider|false
+      Method End: generateWorld(Ljava/util/Random;IILnet/minecraft/world/World;ILnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+      Method Start: serverLoad(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V
+         @|net/mcreator/crystalcraft/crystalcraft.java|5974|5979|event|param|net.mcreator.crystalcraft.crystalcraft.ModElement|serverLoad|(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V|event|0
+         @|net/mcreator/crystalcraft/crystalcraft.java|5940|5950|serverLoad|method|net.mcreator.crystalcraft.crystalcraft.ModElement|serverLoad|(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V
+         @|net/mcreator/crystalcraft/crystalcraft.java|5951|5973|FMLServerStartingEvent|class|net.minecraftforge.fml.common.event.FMLServerStartingEvent|false
+      Method End: serverLoad(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V
+      Method Start: registerModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+         @|net/mcreator/crystalcraft/crystalcraft.java|6039|6044|event|param|net.mcreator.crystalcraft.crystalcraft.ModElement|registerModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V|event|0
+         @|net/mcreator/crystalcraft/crystalcraft.java|6005|6019|registerModels|method|net.mcreator.crystalcraft.crystalcraft.ModElement|registerModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+         @|net/mcreator/crystalcraft/crystalcraft.java|6020|6038|ModelRegistryEvent|class|net.minecraftforge.client.event.ModelRegistryEvent|false
+      Method End: registerModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      Method Start: addFuel(Lnet/minecraft/item/ItemStack;)I
+         @|net/mcreator/crystalcraft/crystalcraft.java|6087|6091|fuel|param|net.mcreator.crystalcraft.crystalcraft.ModElement|addFuel|(Lnet/minecraft/item/ItemStack;)I|fuel|0
+         @|net/mcreator/crystalcraft/crystalcraft.java|6069|6076|addFuel|method|net.mcreator.crystalcraft.crystalcraft.ModElement|addFuel|(Lnet/minecraft/item/ItemStack;)I
+         @|net/mcreator/crystalcraft/crystalcraft.java|6077|6086|ItemStack|class|net.minecraft.item.ItemStack|false
+      Method End: addFuel(Lnet/minecraft/item/ItemStack;)I
+   Class End  : net.mcreator.crystalcraft.crystalcraft.ModElement
+Class End  : net.mcreator.crystalcraft.crystalcraft
+endProcessing "net/mcreator/crystalcraft/crystalcraft.java"
+
+startProcessing "net/mcreator/crystalcraft/crystalcraftVariables.java" md5: 9a8cd7e8b179db8d4301c6e3c165896a
+@|net/mcreator/crystalcraft/crystalcraftVariables.java|8|33|net.mcreator.crystalcraft|package|net.mcreator.crystalcraft|(file)
+Class Start: net.mcreator.crystalcraft.crystalcraftVariables
+   @|net/mcreator/crystalcraft/crystalcraftVariables.java|182|203|crystalcraftVariables|class|net.mcreator.crystalcraft.crystalcraftVariables|false
+   Class Start: net.mcreator.crystalcraft.crystalcraftVariables.MapVariables
+      @|net/mcreator/crystalcraft/crystalcraftVariables.java|230|242|MapVariables|class|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|false
+      @|net/mcreator/crystalcraft/crystalcraftVariables.java|251|265|WorldSavedData|class|net.minecraft.world.storage.WorldSavedData|false
+      @|net/mcreator/crystalcraft/crystalcraftVariables.java|294|300|String|class|java.lang.String|false
+      @|net/mcreator/crystalcraft/crystalcraftVariables.java|294|300|String|class|java.lang.String|false
+      @|net/mcreator/crystalcraft/crystalcraftVariables.java|301|310|DATA_NAME|field|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|DATA_NAME|
+      Method Start: MapVariables()V
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|349|361|MapVariables|method|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|MapVariables|()V
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|376|385|DATA_NAME|field|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|DATA_NAME
+      Method End: MapVariables()V
+      Method Start: MapVariables(Ljava/lang/String;)V
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|425|426|s|param|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|MapVariables|(Ljava/lang/String;)V|s|0
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|405|417|MapVariables|method|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|MapVariables|(Ljava/lang/String;)V
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|418|424|String|class|java.lang.String|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|440|441|s|param|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|MapVariables|(Ljava/lang/String;)V|s|0
+      Method End: MapVariables(Ljava/lang/String;)V
+      Method Start: readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|506|509|nbt|param|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|readFromNBT|(Lnet/minecraft/nbt/NBTTagCompound;)V|nbt|0
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|455|463|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|479|490|readFromNBT|method|net.minecraft.world.storage.WorldSavedData|readFromNBT|(Lnet/minecraft/nbt/NBTTagCompound;)V
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|491|505|NBTTagCompound|class|net.minecraft.nbt.NBTTagCompound|false
+      Method End: readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V
+      Method Start: writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|584|587|nbt|param|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|writeToNBT|(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;|nbt|0
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|524|532|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|543|557|NBTTagCompound|class|net.minecraft.nbt.NBTTagCompound|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|558|568|writeToNBT|method|net.minecraft.world.storage.WorldSavedData|writeToNBT|(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|569|583|NBTTagCompound|class|net.minecraft.nbt.NBTTagCompound|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|602|605|nbt|param|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|writeToNBT|(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;|nbt|0
+      Method End: writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;
+      Method Start: get(Lnet/minecraft/world/World;)Lnet/mcreator/crystalcraft/crystalcraftVariables$MapVariables;
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|654|659|world|param|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|get|(Lnet/minecraft/world/World;)Lnet/mcreator/crystalcraft/crystalcraftVariables$MapVariables;|world|0
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|631|643|MapVariables|class|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|644|647|get|method|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|get|(Lnet/minecraft/world/World;)Lnet/mcreator/crystalcraft/crystalcraftVariables$MapVariables;
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|648|653|World|class|net.minecraft.world.World|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|667|679|MapVariables|class|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|692|704|MapVariables|class|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|706|711|world|param|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|get|(Lnet/minecraft/world/World;)Lnet/mcreator/crystalcraft/crystalcraftVariables$MapVariables;|world|0
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|712|725|getMapStorage|method|net.minecraft.world.World|getMapStorage|()Lnet/minecraft/world/storage/MapStorage;
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|728|741|getOrLoadData|method|net.minecraft.world.storage.MapStorage|getOrLoadData|(Ljava/lang/Class;Ljava/lang/String;)Lnet/minecraft/world/storage/WorldSavedData;
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|742|754|MapVariables|class|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|762|771|DATA_NAME|field|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|DATA_NAME
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|822|834|MapVariables|class|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|843|848|world|param|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|get|(Lnet/minecraft/world/World;)Lnet/mcreator/crystalcraft/crystalcraftVariables$MapVariables;|world|0
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|849|862|getMapStorage|method|net.minecraft.world.World|getMapStorage|()Lnet/minecraft/world/storage/MapStorage;
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|865|872|setData|method|net.minecraft.world.storage.MapStorage|setData|(Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|873|882|DATA_NAME|field|net.mcreator.crystalcraft.crystalcraftVariables.MapVariables|DATA_NAME
+      Method End: get(Lnet/minecraft/world/World;)Lnet/mcreator/crystalcraft/crystalcraftVariables$MapVariables;
+   Class End  : net.mcreator.crystalcraft.crystalcraftVariables.MapVariables
+   Class Start: net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables
+      @|net/mcreator/crystalcraft/crystalcraftVariables.java|955|969|WorldVariables|class|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|false
+      @|net/mcreator/crystalcraft/crystalcraftVariables.java|978|992|WorldSavedData|class|net.minecraft.world.storage.WorldSavedData|false
+      @|net/mcreator/crystalcraft/crystalcraftVariables.java|1021|1027|String|class|java.lang.String|false
+      @|net/mcreator/crystalcraft/crystalcraftVariables.java|1021|1027|String|class|java.lang.String|false
+      @|net/mcreator/crystalcraft/crystalcraftVariables.java|1028|1037|DATA_NAME|field|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|DATA_NAME|
+      Method Start: WorldVariables()V
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1078|1092|WorldVariables|method|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|WorldVariables|()V
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1107|1116|DATA_NAME|field|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|DATA_NAME
+      Method End: WorldVariables()V
+      Method Start: WorldVariables(Ljava/lang/String;)V
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1158|1159|s|param|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|WorldVariables|(Ljava/lang/String;)V|s|0
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1136|1150|WorldVariables|method|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|WorldVariables|(Ljava/lang/String;)V
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1151|1157|String|class|java.lang.String|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1173|1174|s|param|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|WorldVariables|(Ljava/lang/String;)V|s|0
+      Method End: WorldVariables(Ljava/lang/String;)V
+      Method Start: readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1239|1242|nbt|param|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|readFromNBT|(Lnet/minecraft/nbt/NBTTagCompound;)V|nbt|0
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1188|1196|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1212|1223|readFromNBT|method|net.minecraft.world.storage.WorldSavedData|readFromNBT|(Lnet/minecraft/nbt/NBTTagCompound;)V
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1224|1238|NBTTagCompound|class|net.minecraft.nbt.NBTTagCompound|false
+      Method End: readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V
+      Method Start: writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1317|1320|nbt|param|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|writeToNBT|(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;|nbt|0
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1257|1265|Override|class|java.lang.Override|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1276|1290|NBTTagCompound|class|net.minecraft.nbt.NBTTagCompound|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1291|1301|writeToNBT|method|net.minecraft.world.storage.WorldSavedData|writeToNBT|(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1302|1316|NBTTagCompound|class|net.minecraft.nbt.NBTTagCompound|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1335|1338|nbt|param|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|writeToNBT|(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;|nbt|0
+      Method End: writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;
+      Method Start: get(Lnet/minecraft/world/World;)Lnet/mcreator/crystalcraft/crystalcraftVariables$WorldVariables;
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1389|1394|world|param|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|get|(Lnet/minecraft/world/World;)Lnet/mcreator/crystalcraft/crystalcraftVariables$WorldVariables;|world|0
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1364|1378|WorldVariables|class|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1379|1382|get|method|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|get|(Lnet/minecraft/world/World;)Lnet/mcreator/crystalcraft/crystalcraftVariables$WorldVariables;
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1383|1388|World|class|net.minecraft.world.World|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1402|1416|WorldVariables|class|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1429|1443|WorldVariables|class|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1445|1450|world|param|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|get|(Lnet/minecraft/world/World;)Lnet/mcreator/crystalcraft/crystalcraftVariables$WorldVariables;|world|0
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1451|1464|getMapStorage|method|net.minecraft.world.World|getMapStorage|()Lnet/minecraft/world/storage/MapStorage;
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1467|1480|getOrLoadData|method|net.minecraft.world.storage.MapStorage|getOrLoadData|(Ljava/lang/Class;Ljava/lang/String;)Lnet/minecraft/world/storage/WorldSavedData;
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1481|1495|WorldVariables|class|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1503|1512|DATA_NAME|field|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|DATA_NAME
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1563|1577|WorldVariables|class|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|false
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1586|1591|world|param|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|get|(Lnet/minecraft/world/World;)Lnet/mcreator/crystalcraft/crystalcraftVariables$WorldVariables;|world|0
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1592|1605|getMapStorage|method|net.minecraft.world.World|getMapStorage|()Lnet/minecraft/world/storage/MapStorage;
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1608|1615|setData|method|net.minecraft.world.storage.MapStorage|setData|(Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V
+         @|net/mcreator/crystalcraft/crystalcraftVariables.java|1616|1625|DATA_NAME|field|net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables|DATA_NAME
+      Method End: get(Lnet/minecraft/world/World;)Lnet/mcreator/crystalcraft/crystalcraftVariables$WorldVariables;
+   Class End  : net.mcreator.crystalcraft.crystalcraftVariables.WorldVariables
+Class End  : net.mcreator.crystalcraft.crystalcraftVariables
+endProcessing "net/mcreator/crystalcraft/crystalcraftVariables.java"
+

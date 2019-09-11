@@ -1,0 +1,216 @@
+Processing 8 files
+Start Processing: net/mcreator/crystalcraft/ClientProxycrystalcraft.java
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.client.model.obj.OBJLoader
+End  Processing: net/mcreator/crystalcraft/ClientProxycrystalcraft.java
+
+Start Processing: net/mcreator/crystalcraft/CommonProxycrystalcraft.java
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+End  Processing: net/mcreator/crystalcraft/CommonProxycrystalcraft.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorCreativeChamber.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorCreativeChamber/MCreatorCreativeChamber (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorCreativeChamber
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1352,1368]::getItemFromBlock->func_150898_a
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorCreativeChamber/BlockCustom/BlockCustom ()V net/mcreator/crystalcraft/MCreatorCreativeChamber/BlockCustom
+Rename field net/minecraft/block/material/Material/IRON[1558,1562]::IRON->field_151573_f
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1619,1637]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1657,1669]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/METAL[1681,1686]::METAL->field_185852_e
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1737,1748]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1760,1773]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1784,1797]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1810,1825]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1832,1846]::setCreativeTab->func_149647_a
+Rename method net/minecraft/block/Block/getBlockLayer ()Lnet/minecraft/util/BlockRenderLayer;[1944,1957]::getBlockLayer->func_180664_k
+Rename method net/minecraft/block/Block/getCollisionBoundingBox (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;[2071,2094]::getCollisionBoundingBox->func_180646_a
+Rename field net/minecraft/block/Block/NULL_AABB[2158,2167]::NULL_AABB->field_185506_k
+Rename method net/minecraft/block/Block/isPassable (Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Z[2212,2222]::isPassable->func_176205_b
+Rename method net/minecraft/block/Block/isFullCube (Lnet/minecraft/block/state/IBlockState;)Z[2319,2329]::isFullCube->func_149686_d
+Rename method net/minecraft/block/Block/getBoundingBox (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;[2416,2430]::getBoundingBox->func_185496_a
+Rename method net/minecraft/block/Block/isOpaqueCube (Lnet/minecraft/block/state/IBlockState;)Z[2578,2590]::isOpaqueCube->func_149662_c
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 11 imports
+        net.minecraft.block.Block
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+        net.minecraft.util.BlockRenderLayer
+        net.minecraft.util.math.AxisAlignedBB
+        net.minecraft.util.math.BlockPos
+        net.minecraft.world.IBlockAccess
+End  Processing: net/mcreator/crystalcraft/MCreatorCreativeChamber.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorCrystalIngot.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorCrystalIngot/MCreatorCrystalIngot (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorCrystalIngot
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorCrystalIngot/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorCrystalIngot/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1111,1123]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1132,1144]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1157,1175]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1228,1242]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1300,1321]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1365,1386]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1455,1470]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorCrystalIngot.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorCrystalOre.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorCrystalOre/MCreatorCrystalOre (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorCrystalOre
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1764,1780]::getItemFromBlock->func_150898_a
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2317,2332]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/getBlock ()Lnet/minecraft/block/Block;[2525,2533]::getBlock->func_177230_c
+Rename field net/minecraft/init/Blocks/STONE[2551,2556]::STONE->field_150348_b
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[2566,2581]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/state/IBlockState/getBlock ()Lnet/minecraft/block/Block;[2582,2590]::getBlock->func_177230_c
+Rename method net/minecraft/world/gen/feature/WorldGenerator/generate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)Z[2671,2679]::generate->func_180709_b
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorCrystalOre/BlockCustom/BlockCustom ()V net/mcreator/crystalcraft/MCreatorCrystalOre/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[2832,2836]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[2888,2906]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[2921,2933]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/STONE[2945,2950]::STONE->field_185851_d
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[3001,3012]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[3024,3037]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[3048,3061]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[3071,3086]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[3095,3109]::setCreativeTab->func_149647_a
+Rename method net/minecraft/block/Block/getBlockLayer ()Lnet/minecraft/util/BlockRenderLayer;[3207,3220]::getBlockLayer->func_180664_k
+Rename method net/minecraft/block/Block/randomDisplayTick (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V[3532,3549]::randomDisplayTick->func_180655_c
+Rename method net/minecraft/block/Block/randomDisplayTick (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V[3619,3636]::randomDisplayTick->func_180655_c
+Rename method net/minecraft/client/Minecraft/getMinecraft ()Lnet/minecraft/client/Minecraft;[3697,3709]::getMinecraft->func_71410_x
+Rename field net/minecraft/client/Minecraft/player[3712,3718]::player->field_71439_g
+Rename method net/minecraft/util/math/Vec3i/getX ()I[3743,3747]::getX->func_177958_n
+Rename method net/minecraft/util/math/Vec3i/getY ()I[3776,3780]::getY->func_177956_o
+Rename method net/minecraft/util/math/Vec3i/getZ ()I[3809,3813]::getZ->func_177952_p
+Rename method net/minecraft/world/World/spawnParticle (Lnet/minecraft/util/EnumParticleTypes;DDDDDD[I)V[4413,4426]::spawnParticle->func_175688_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 21 imports
+        java.util.Random
+        net.minecraft.block.Block
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.Minecraft
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.entity.player.EntityPlayer
+        net.minecraft.init.Blocks
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+        net.minecraft.item.ItemStack
+        net.minecraft.util.BlockRenderLayer
+        net.minecraft.util.EnumParticleTypes
+        net.minecraft.util.NonNullList
+        net.minecraft.util.math.BlockPos
+        net.minecraft.world.IBlockAccess
+        net.minecraft.world.World
+        net.minecraft.world.chunk.IChunkProvider
+        net.minecraft.world.gen.IChunkGenerator
+        net.minecraft.world.gen.feature.WorldGenMinable
+End  Processing: net/mcreator/crystalcraft/MCreatorCrystalOre.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorCrystalTab.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorCrystalTab/MCreatorCrystalTab (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorCrystalTab
+Rename method net/minecraft/creativetab/CreativeTabs/getTabIconItem ()Lnet/minecraft/item/ItemStack;[507,521]::getTabIconItem->func_78016_d
+Rename method net/minecraft/creativetab/CreativeTabs/setBackgroundImageName (Ljava/lang/String;)Lnet/minecraft/creativetab/CreativeTabs;[683,705]::setBackgroundImageName->func_78025_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Adding 2 imports
+        net.minecraft.creativetab.CreativeTabs
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorCrystalTab.java
+
+Start Processing: net/mcreator/crystalcraft/crystalcraft.java
+FOUND CONSTR method net/mcreator/crystalcraft/crystalcraft/crystalcraft ()V net/mcreator/crystalcraft/crystalcraft
+Rename field net/minecraft/world/World/provider[3235,3243]::provider->field_73011_w
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+FOUND CONSTR method net/mcreator/crystalcraft/crystalcraft/ModElement/ModElement (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/crystalcraft/ModElement
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.fml.common.registry.EntityEntry
+Import: net.minecraftforge.fml.common.network.NetworkRegistry
+Import: net.minecraftforge.fml.common.network.IGuiHandler
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.fml.common.SidedProxy
+Import: net.minecraftforge.fml.common.Mod.Instance
+Import: net.minecraftforge.fml.common.Mod.EventHandler
+Import: net.minecraftforge.fml.common.Mod
+Import: net.minecraftforge.fml.common.IWorldGenerator
+Import: net.minecraftforge.fml.common.IFuelHandler
+Import: net.minecraftforge.fluids.FluidRegistry
+Import: net.minecraftforge.event.RegistryEvent
+Import: net.minecraftforge.common.MinecraftForge
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 13 imports
+        java.util.ArrayList
+        java.util.List
+        java.util.Random
+        java.util.function.Supplier
+        net.minecraft.block.Block
+        net.minecraft.entity.player.EntityPlayer
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+        net.minecraft.potion.Potion
+        net.minecraft.world.World
+        net.minecraft.world.biome.Biome
+        net.minecraft.world.chunk.IChunkProvider
+        net.minecraft.world.gen.IChunkGenerator
+End  Processing: net/mcreator/crystalcraft/crystalcraft.java
+
+Start Processing: net/mcreator/crystalcraft/crystalcraftVariables.java
+FOUND CONSTR method net/mcreator/crystalcraft/crystalcraftVariables/MapVariables/MapVariables ()V net/mcreator/crystalcraft/crystalcraftVariables/MapVariables
+FOUND CONSTR method net/mcreator/crystalcraft/crystalcraftVariables/MapVariables/MapVariables (Ljava/lang/String;)V net/mcreator/crystalcraft/crystalcraftVariables/MapVariables
+Rename method net/minecraft/world/storage/WorldSavedData/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[479,490]::readFromNBT->func_76184_a
+Rename method net/minecraft/world/storage/WorldSavedData/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[559,569]::writeToNBT->func_189551_b
+Rename method net/minecraft/world/World/getMapStorage ()Lnet/minecraft/world/storage/MapStorage;[716,729]::getMapStorage->func_175693_T
+Rename method net/minecraft/world/storage/MapStorage/getOrLoadData (Ljava/lang/Class;Ljava/lang/String;)Lnet/minecraft/world/storage/WorldSavedData;[732,745]::getOrLoadData->func_75742_a
+Rename method net/minecraft/world/World/getMapStorage ()Lnet/minecraft/world/storage/MapStorage;[852,865]::getMapStorage->func_175693_T
+Rename method net/minecraft/world/storage/MapStorage/setData (Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V[868,875]::setData->func_75745_a
+FOUND CONSTR method net/mcreator/crystalcraft/crystalcraftVariables/WorldVariables/WorldVariables ()V net/mcreator/crystalcraft/crystalcraftVariables/WorldVariables
+FOUND CONSTR method net/mcreator/crystalcraft/crystalcraftVariables/WorldVariables/WorldVariables (Ljava/lang/String;)V net/mcreator/crystalcraft/crystalcraftVariables/WorldVariables
+Rename method net/minecraft/world/storage/WorldSavedData/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[1220,1231]::readFromNBT->func_76184_a
+Rename method net/minecraft/world/storage/WorldSavedData/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[1300,1310]::writeToNBT->func_189551_b
+Rename method net/minecraft/world/World/getMapStorage ()Lnet/minecraft/world/storage/MapStorage;[1463,1476]::getMapStorage->func_175693_T
+Rename method net/minecraft/world/storage/MapStorage/getOrLoadData (Ljava/lang/Class;Ljava/lang/String;)Lnet/minecraft/world/storage/WorldSavedData;[1479,1492]::getOrLoadData->func_75742_a
+Rename method net/minecraft/world/World/getMapStorage ()Lnet/minecraft/world/storage/MapStorage;[1603,1616]::getMapStorage->func_175693_T
+Rename method net/minecraft/world/storage/MapStorage/setData (Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V[1619,1626]::setData->func_75745_a
+Import: net.minecraft.world.storage.WorldSavedData
+Import: net.minecraft.world.World
+Import: net.minecraft.nbt.NBTTagCompound
+End  Processing: net/mcreator/crystalcraft/crystalcraftVariables.java
+
