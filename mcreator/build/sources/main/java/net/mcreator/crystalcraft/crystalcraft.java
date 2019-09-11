@@ -58,6 +58,7 @@ public class crystalcraft implements IFuelHandler, IWorldGenerator {
 		elements.add(new MCreatorCrystalIngot(this));
 		elements.add(new MCreatorCrystalTab(this));
 		elements.add(new MCreatorCreativeChamber(this));
+		elements.add(new MCreatorCreativeChamberEvent(this));
 	}
 
 	@Override

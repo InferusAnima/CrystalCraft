@@ -64,6 +64,9 @@
     "inventoryDropWhenDestroyed": true,
     "inventoryComparatorPower": true,
     "inventoryOutSlotIDs": [],
+    "onEntityCollides": {
+      "name": "CreativeChamberEvent"
+    },
     "spawnWorldTypes": [],
     "restricPerBiome": false,
     "restrictionBiomes": [],

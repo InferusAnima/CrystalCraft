@@ -1,4 +1,4 @@
-Processing 8 files
+Processing 9 files
 Start Processing: net/mcreator/crystalcraft/ClientProxycrystalcraft.java
 Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
 Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
@@ -14,42 +14,75 @@ Start Processing: net/mcreator/crystalcraft/MCreatorCreativeChamber.java
 New Key: class net/mcreator/crystalcraft/crystalcraft
 New Key: class net/minecraftforge/fml/common/registry/GameRegistry
 FOUND CONSTR method net/mcreator/crystalcraft/MCreatorCreativeChamber/MCreatorCreativeChamber (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorCreativeChamber
-Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1352,1368]::getItemFromBlock->func_150898_a
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1453,1469]::getItemFromBlock->func_150898_a
 FOUND CONSTR method net/mcreator/crystalcraft/MCreatorCreativeChamber/BlockCustom/BlockCustom ()V net/mcreator/crystalcraft/MCreatorCreativeChamber/BlockCustom
-Rename field net/minecraft/block/material/Material/IRON[1558,1562]::IRON->field_151573_f
-Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1619,1637]::setUnlocalizedName->func_149663_c
-Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1657,1669]::setSoundType->func_149672_a
-Rename field net/minecraft/block/SoundType/METAL[1681,1686]::METAL->field_185852_e
-Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1737,1748]::setHardness->func_149711_c
-Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1760,1773]::setResistance->func_149752_b
-Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1784,1797]::setLightLevel->func_149715_a
-Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1810,1825]::setLightOpacity->func_149713_g
-Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1832,1846]::setCreativeTab->func_149647_a
-Rename method net/minecraft/block/Block/getBlockLayer ()Lnet/minecraft/util/BlockRenderLayer;[1944,1957]::getBlockLayer->func_180664_k
-Rename method net/minecraft/block/Block/getCollisionBoundingBox (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;[2071,2094]::getCollisionBoundingBox->func_180646_a
-Rename field net/minecraft/block/Block/NULL_AABB[2158,2167]::NULL_AABB->field_185506_k
-Rename method net/minecraft/block/Block/isPassable (Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Z[2212,2222]::isPassable->func_176205_b
-Rename method net/minecraft/block/Block/isFullCube (Lnet/minecraft/block/state/IBlockState;)Z[2319,2329]::isFullCube->func_149686_d
-Rename method net/minecraft/block/Block/getBoundingBox (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;[2416,2430]::getBoundingBox->func_185496_a
-Rename method net/minecraft/block/Block/isOpaqueCube (Lnet/minecraft/block/state/IBlockState;)Z[2578,2590]::isOpaqueCube->func_149662_c
+Rename field net/minecraft/block/material/Material/IRON[1659,1663]::IRON->field_151573_f
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1720,1738]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1758,1770]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/METAL[1782,1787]::METAL->field_185852_e
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1838,1849]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1861,1874]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1885,1898]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1911,1926]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1933,1947]::setCreativeTab->func_149647_a
+Rename method net/minecraft/block/Block/getBlockLayer ()Lnet/minecraft/util/BlockRenderLayer;[2045,2058]::getBlockLayer->func_180664_k
+Rename method net/minecraft/block/Block/getCollisionBoundingBox (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;[2172,2195]::getCollisionBoundingBox->func_180646_a
+Rename field net/minecraft/block/Block/NULL_AABB[2259,2268]::NULL_AABB->field_185506_k
+Rename method net/minecraft/block/Block/isPassable (Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Z[2313,2323]::isPassable->func_176205_b
+Rename method net/minecraft/block/Block/isFullCube (Lnet/minecraft/block/state/IBlockState;)Z[2420,2430]::isFullCube->func_149686_d
+Rename method net/minecraft/block/Block/getBoundingBox (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;[2517,2531]::getBoundingBox->func_185496_a
+Rename method net/minecraft/block/Block/isOpaqueCube (Lnet/minecraft/block/state/IBlockState;)Z[2679,2691]::isOpaqueCube->func_149662_c
+Rename method net/minecraft/block/Block/onEntityCollidedWithBlock (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/Entity;)V[2767,2792]::onEntityCollidedWithBlock->func_180634_a
+Rename method net/minecraft/block/Block/onEntityCollidedWithBlock (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/Entity;)V[2854,2879]::onEntityCollidedWithBlock->func_180634_a
+Rename method net/minecraft/util/math/Vec3i/getX ()I[2912,2916]::getX->func_177958_n
+Rename method net/minecraft/util/math/Vec3i/getY ()I[2945,2949]::getY->func_177956_o
+Rename method net/minecraft/util/math/Vec3i/getZ ()I[2978,2982]::getZ->func_177952_p
 Import: net.minecraftforge.fml.relauncher.SideOnly
 Import: net.minecraftforge.fml.relauncher.Side
 Import: net.minecraftforge.fml.common.registry.GameRegistry
 Import: net.minecraftforge.client.model.ModelLoader
 Import: net.minecraftforge.client.event.ModelRegistryEvent
-Adding 11 imports
+Adding 13 imports
         net.minecraft.block.Block
         net.minecraft.block.SoundType
         net.minecraft.block.material.Material
         net.minecraft.block.state.IBlockState
         net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.entity.Entity
         net.minecraft.item.Item
         net.minecraft.item.ItemBlock
         net.minecraft.util.BlockRenderLayer
         net.minecraft.util.math.AxisAlignedBB
         net.minecraft.util.math.BlockPos
         net.minecraft.world.IBlockAccess
+        net.minecraft.world.World
 End  Processing: net/mcreator/crystalcraft/MCreatorCreativeChamber.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorCreativeChamberEvent.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorCreativeChamberEvent/MCreatorCreativeChamberEvent (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorCreativeChamberEvent
+Rename method net/minecraft/entity/Entity/isSneaking ()Z[1798,1808]::isSneaking->func_70093_af
+Rename method net/minecraft/world/World/playSound (Lnet/minecraft/entity/player/EntityPlayer;DDDLnet/minecraft/util/SoundEvent;Lnet/minecraft/util/SoundCategory;FF)V[1828,1837]::playSound->func_184148_a
+Rename field net/minecraft/util/SoundEvent/REGISTRY[1965,1973]::REGISTRY->field_187505_a
+Rename method net/minecraft/util/registry/IRegistry/getObject (Ljava/lang/Object;)Ljava/lang/Object;[1980,1989]::getObject->func_82594_a
+Rename method net/minecraft/world/World/setBlockToAir (Lnet/minecraft/util/math/BlockPos;)Z[2106,2119]::setBlockToAir->func_175698_g
+Rename method net/minecraft/world/WorldServer/spawnParticle (Lnet/minecraft/util/EnumParticleTypes;DDDIDDDD[I)V[2227,2240]::spawnParticle->func_175739_a
+Rename method net/minecraft/world/World/addWeatherEffect (Lnet/minecraft/entity/Entity;)Z[2329,2345]::addWeatherEffect->func_72942_c
+Rename method net/minecraft/world/World/addWeatherEffect (Lnet/minecraft/entity/Entity;)Z[2425,2441]::addWeatherEffect->func_72942_c
+Rename method net/minecraft/world/World/addWeatherEffect (Lnet/minecraft/entity/Entity;)Z[2521,2537]::addWeatherEffect->func_72942_c
+Rename method net/minecraft/world/World/addWeatherEffect (Lnet/minecraft/entity/Entity;)Z[2617,2633]::addWeatherEffect->func_72942_c
+Rename method net/minecraft/entity/player/EntityPlayer/setGameType (Lnet/minecraft/world/GameType;)V[2772,2783]::setGameType->func_71033_a
+Import: net.minecraft.world.WorldServer
+Import: net.minecraft.world.World
+Import: net.minecraft.world.GameType
+Import: net.minecraft.util.math.BlockPos
+Import: net.minecraft.util.SoundCategory
+Import: net.minecraft.util.ResourceLocation
+Import: net.minecraft.util.EnumParticleTypes
+Import: net.minecraft.entity.player.EntityPlayer
+Import: net.minecraft.entity.effect.EntityLightningBolt
+Import: net.minecraft.entity.Entity
+End  Processing: net/mcreator/crystalcraft/MCreatorCreativeChamberEvent.java
 
 Start Processing: net/mcreator/crystalcraft/MCreatorCrystalIngot.java
 New Key: class net/mcreator/crystalcraft/crystalcraft
@@ -148,7 +181,7 @@ End  Processing: net/mcreator/crystalcraft/MCreatorCrystalTab.java
 
 Start Processing: net/mcreator/crystalcraft/crystalcraft.java
 FOUND CONSTR method net/mcreator/crystalcraft/crystalcraft/crystalcraft ()V net/mcreator/crystalcraft/crystalcraft
-Rename field net/minecraft/world/World/provider[3235,3243]::provider->field_73011_w
+Rename field net/minecraft/world/World/provider[3292,3300]::provider->field_73011_w
 New Key: class net/minecraftforge/event/RegistryEvent
 New Key: class net/minecraftforge/event/RegistryEvent
 New Key: class net/minecraftforge/event/RegistryEvent

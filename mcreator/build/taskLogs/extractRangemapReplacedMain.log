@@ -1,15 +1,18 @@
 Unsupposrted library path: C:\Users\ivan2\Documents\GitHub\CrystalCraft\mcreator\build\classes\java\api
 Unsupposrted library path: C:\Users\ivan2\Documents\GitHub\CrystalCraft\mcreator\build\resources\api
 Symbol range map extraction starting
-Processing 8 files
+Processing 9 files
 startProcessing "net/mcreator/crystalcraft/ClientProxycrystalcraft.java" md5: 30b39de2c62ebec7f9d823d13648ee8c
 endProcessing "net/mcreator/crystalcraft/ClientProxycrystalcraft.java"
 
 startProcessing "net/mcreator/crystalcraft/CommonProxycrystalcraft.java" md5: 8997b90c53454035a805ef2bd03bd9a2
 endProcessing "net/mcreator/crystalcraft/CommonProxycrystalcraft.java"
 
-startProcessing "net/mcreator/crystalcraft/MCreatorCreativeChamber.java" md5: e41955b510a6ec8115f0415c3581cfa4
+startProcessing "net/mcreator/crystalcraft/MCreatorCreativeChamber.java" md5: b8e7dcb835ffbac41281c0fd60ac8e92
 endProcessing "net/mcreator/crystalcraft/MCreatorCreativeChamber.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorCreativeChamberEvent.java" md5: 232feb3f5ec86ffa2b6fdc3bb72f7c09
+endProcessing "net/mcreator/crystalcraft/MCreatorCreativeChamberEvent.java"
 
 startProcessing "net/mcreator/crystalcraft/MCreatorCrystalIngot.java" md5: 55315bdd1e32e8bfc9da4989b2b398a4
 endProcessing "net/mcreator/crystalcraft/MCreatorCrystalIngot.java"
@@ -20,7 +23,7 @@ endProcessing "net/mcreator/crystalcraft/MCreatorCrystalOre.java"
 startProcessing "net/mcreator/crystalcraft/MCreatorCrystalTab.java" md5: f0a14653ae97ebd065a3cb9938e5b611
 endProcessing "net/mcreator/crystalcraft/MCreatorCrystalTab.java"
 
-startProcessing "net/mcreator/crystalcraft/crystalcraft.java" md5: c29b61edc47f6e19a176f8a6a01474aa
+startProcessing "net/mcreator/crystalcraft/crystalcraft.java" md5: afc746e6bafd0cada41a32e09fa6c351
 endProcessing "net/mcreator/crystalcraft/crystalcraft.java"
 
 startProcessing "net/mcreator/crystalcraft/crystalcraftVariables.java" md5: 9a8cd7e8b179db8d4301c6e3c165896a
