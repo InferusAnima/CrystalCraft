@@ -1,0 +1,10 @@
+{
+  "parent": "crystalcraft:custom/crystalchamber",
+  "textures": {
+    "all": "crystalcraft:blocks/crystalchamber_2",
+    "particle": "crystalcraft:blocks/crystalchamber_2",
+    "crystalchamber_2": "crystalcraft:blocks/crystalchamber_2",
+    "crystalchamber_1": "crystalcraft:blocks/crystalchamber_1",
+    "crystalchamber_3": "crystalcraft:blocks/crystalchamber_3"
+  }
+}

@@ -1,18 +1,99 @@
 Unsupposrted library path: C:\Users\ivan2\Documents\GitHub\CrystalCraft\mcreator\build\classes\java\api
 Unsupposrted library path: C:\Users\ivan2\Documents\GitHub\CrystalCraft\mcreator\build\resources\api
 Symbol range map extraction starting
-Processing 9 files
+Processing 38 files
 startProcessing "net/mcreator/crystalcraft/ClientProxycrystalcraft.java" md5: 30b39de2c62ebec7f9d823d13648ee8c
 endProcessing "net/mcreator/crystalcraft/ClientProxycrystalcraft.java"
 
 startProcessing "net/mcreator/crystalcraft/CommonProxycrystalcraft.java" md5: 8997b90c53454035a805ef2bd03bd9a2
 endProcessing "net/mcreator/crystalcraft/CommonProxycrystalcraft.java"
 
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier1.java" md5: 47b3d0606db92a384048fe8b9149bd69
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier1.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier10.java" md5: 0f0fc2b80602c67c3cf4f833e47fafe0
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier10.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier11.java" md5: 224686eb16570f5784beac3905af6b1a
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier11.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier12.java" md5: 542c726f5aaaf3e2e1e56643e5e50fa0
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier12.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier13.java" md5: a021476ff6e9b08cde971d92b73648cb
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier13.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier14.java" md5: 16c8c21c3d0ebdc62565563e4ab7baab
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier14.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier15.java" md5: dabc554300225b954d1f0af1d4407f2f
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier15.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier16.java" md5: 632594e048366cd4910755a4a4ab5906
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier16.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier17.java" md5: 1da32dc6e56e1ff8a9fac6c0898d104a
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier17.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier18.java" md5: 5647f10ef048214a0196894f88a996eb
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier18.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier19.java" md5: f76d03152d974e2f14efdfba91431861
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier19.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier2.java" md5: 18ed721a85cbba2741765a02d74e089b
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier2.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier20.java" md5: cb2c596a4130a15df43310af8b4d8dee
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier20.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier21.java" md5: b99cc65410d1d425a105d7da9d58f86f
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier21.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier22.java" md5: 43593ca64b266abe1c6cc6e4260ebde8
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier22.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier23.java" md5: 937cfe6263346225d40eba8b4b45fa84
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier23.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier24.java" md5: f177f4eb9bc771bd8f24cb772dbe3ec2
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier24.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier25.java" md5: 4ed787703b14fac9a4e34789b874103a
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier25.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier3.java" md5: 7cf89227a37e6cd5310cdc9e3e3894c2
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier3.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier4.java" md5: 9ff2b0fbab2786955027d5b51e5d5134
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier4.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier5.java" md5: 566cf8bcc82daf9b580626faa2ba92d8
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier5.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier6.java" md5: dcc9e4d9e97c5d76926402c56c324765
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier6.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier7.java" md5: 38b66c6325b6f53c79e4ce3e128b7347
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier7.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier8.java" md5: 15a9989694866bf376705ef6971681ae
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier8.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier9.java" md5: 47d4a4fe601e74cf2f54906dfac5bf43
+endProcessing "net/mcreator/crystalcraft/MCreatorAquaAuraTier9.java"
+
 startProcessing "net/mcreator/crystalcraft/MCreatorCreativeChamber.java" md5: b8e7dcb835ffbac41281c0fd60ac8e92
 endProcessing "net/mcreator/crystalcraft/MCreatorCreativeChamber.java"
 
-startProcessing "net/mcreator/crystalcraft/MCreatorCreativeChamberEvent.java" md5: 232feb3f5ec86ffa2b6fdc3bb72f7c09
+startProcessing "net/mcreator/crystalcraft/MCreatorCreativeChamberEvent.java" md5: 11ed1191643506394ef8659b0bcd05e7
 endProcessing "net/mcreator/crystalcraft/MCreatorCreativeChamberEvent.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorCrystal.java" md5: d49502d9864302e6aee3079442a3b643
+endProcessing "net/mcreator/crystalcraft/MCreatorCrystal.java"
+
+startProcessing "net/mcreator/crystalcraft/MCreatorCrystalChamber.java" md5: bb9ba2289d46e4dbb6c2584c94e42b85
+endProcessing "net/mcreator/crystalcraft/MCreatorCrystalChamber.java"
 
 startProcessing "net/mcreator/crystalcraft/MCreatorCrystalIngot.java" md5: 55315bdd1e32e8bfc9da4989b2b398a4
 endProcessing "net/mcreator/crystalcraft/MCreatorCrystalIngot.java"
@@ -23,7 +104,13 @@ endProcessing "net/mcreator/crystalcraft/MCreatorCrystalOre.java"
 startProcessing "net/mcreator/crystalcraft/MCreatorCrystalTab.java" md5: f0a14653ae97ebd065a3cb9938e5b611
 endProcessing "net/mcreator/crystalcraft/MCreatorCrystalTab.java"
 
-startProcessing "net/mcreator/crystalcraft/crystalcraft.java" md5: afc746e6bafd0cada41a32e09fa6c351
+startProcessing "net/mcreator/crystalcraft/MyTimer.java" md5: 9eefb64bff0a097807e788857b385ee3
+endProcessing "net/mcreator/crystalcraft/MyTimer.java"
+
+startProcessing "net/mcreator/crystalcraft/MyTimerEvent.java" md5: 4f2defa64b5a47bd43a11b87f1746f0e
+endProcessing "net/mcreator/crystalcraft/MyTimerEvent.java"
+
+startProcessing "net/mcreator/crystalcraft/crystalcraft.java" md5: a14b015c6da8a1e1f502bd59a559fd1f
 endProcessing "net/mcreator/crystalcraft/crystalcraft.java"
 
 startProcessing "net/mcreator/crystalcraft/crystalcraftVariables.java" md5: 9a8cd7e8b179db8d4301c6e3c165896a

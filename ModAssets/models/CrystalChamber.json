@@ -1,0 +1,101 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+"ambientocclusion": false,
+    "textures": {
+        "particle": "minecraft:block/crystalchamber/crystalchamber_1",
+        "crystalchamber_2": "minecraft:block/crystalchamber/crystalchamber_2",
+        "crystalchamber_1": "minecraft:block/crystalchamber/crystalchamber_1",
+        "crystalchamber_3": "minecraft:block/crystalchamber/crystalchamber_3"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 0, 0, 0 ], 
+            "to": [ 16, 5, 16 ], 
+            "faces": {
+                "north": { "texture": "#crystalchamber_1", "uv": [ 0, 11, 16, 16 ] },
+                "east": { "texture": "#crystalchamber_1", "uv": [ 0, 11, 16, 16 ] },
+                "south": { "texture": "#crystalchamber_1", "uv": [ 0, 11, 16, 16 ] },
+                "west": { "texture": "#crystalchamber_1", "uv": [ 0, 11, 16, 16 ] },
+                "up": { "texture": "#crystalchamber_2", "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#crystalchamber_2", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 5, 0 ], 
+            "to": [ 5, 10, 16 ], 
+            "faces": {
+                "north": { "texture": "#crystalchamber_1", "uv": [ 11, 6, 16, 11 ] },
+                "east": { "texture": "#crystalchamber_3", "uv": [ 0, 6, 16, 11 ] },
+                "south": { "texture": "#crystalchamber_1", "uv": [ 0, 6, 5, 11 ] },
+                "west": { "texture": "#crystalchamber_1", "uv": [ 0, 6, 16, 11 ] },
+                "up": { "texture": "#crystalchamber_2", "uv": [ 0, 0, 5, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 11, 5, 0 ], 
+            "to": [ 16, 10, 16 ], 
+            "faces": {
+                "north": { "texture": "#crystalchamber_1", "uv": [ 0, 6, 5, 11 ] },
+                "east": { "texture": "#crystalchamber_1", "uv": [ 0, 6, 16, 11 ] },
+                "south": { "texture": "#crystalchamber_1", "uv": [ 11, 6, 16, 11 ] },
+                "west": { "texture": "#crystalchamber_3", "uv": [ 0, 6, 16, 11 ] },
+                "up": { "texture": "#crystalchamber_2", "uv": [ 11, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 5, 5, 0 ], 
+            "to": [ 11, 10, 5 ], 
+            "faces": {
+                "north": { "texture": "#crystalchamber_1", "uv": [ 5, 6, 11, 11 ] },
+                "south": { "texture": "#crystalchamber_3", "uv": [ 5, 6, 11, 11 ] },
+                "up": { "texture": "#crystalchamber_2", "uv": [ 5, 0, 11, 5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 5, 5, 11 ], 
+            "to": [ 11, 10, 16 ], 
+            "faces": {
+                "north": { "texture": "#crystalchamber_3", "uv": [ 5, 7, 11, 12 ] },
+                "south": { "texture": "#crystalchamber_1", "uv": [ 5, 6, 11, 11 ] },
+                "up": { "texture": "#crystalchamber_2", "uv": [ 5, 11, 11, 16 ] }
+            }
+        }
+    ]
+}

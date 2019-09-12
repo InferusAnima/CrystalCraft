@@ -1,4 +1,4 @@
-Processing 9 files
+Processing 38 files
 Start Processing: net/mcreator/crystalcraft/ClientProxycrystalcraft.java
 Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
 Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
@@ -9,6 +9,606 @@ Start Processing: net/mcreator/crystalcraft/CommonProxycrystalcraft.java
 Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
 Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
 End  Processing: net/mcreator/crystalcraft/CommonProxycrystalcraft.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier1.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier1/MCreatorAquaAuraTier1 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier1
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier1/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier1/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1115,1127]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1136,1148]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1161,1179]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1234,1248]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1306,1327]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1371,1392]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1461,1476]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier1.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier10.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier10/MCreatorAquaAuraTier10 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier10
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier10/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier10/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier10.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier11.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier11/MCreatorAquaAuraTier11 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier11
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier11/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier11/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier11.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier12.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier12/MCreatorAquaAuraTier12 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier12
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier12/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier12/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier12.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier13.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier13/MCreatorAquaAuraTier13 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier13
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier13/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier13/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier13.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier14.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier14/MCreatorAquaAuraTier14 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier14
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier14/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier14/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier14.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier15.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier15/MCreatorAquaAuraTier15 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier15
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier15/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier15/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier15.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier16.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier16/MCreatorAquaAuraTier16 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier16
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier16/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier16/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier16.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier17.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier17/MCreatorAquaAuraTier17 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier17
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier17/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier17/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier17.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier18.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier18/MCreatorAquaAuraTier18 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier18
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier18/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier18/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier18.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier19.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier19/MCreatorAquaAuraTier19 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier19
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier19/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier19/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier19.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier2.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier2/MCreatorAquaAuraTier2 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier2
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier2/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier2/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1115,1127]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1136,1148]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1161,1179]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1234,1248]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1306,1327]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1371,1392]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1461,1476]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier2.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier20.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier20/MCreatorAquaAuraTier20 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier20
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier20/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier20/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier20.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier21.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier21/MCreatorAquaAuraTier21 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier21
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier21/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier21/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier21.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier22.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier22/MCreatorAquaAuraTier22 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier22
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier22/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier22/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier22.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier23.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier23/MCreatorAquaAuraTier23 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier23
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier23/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier23/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier23.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier24.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier24/MCreatorAquaAuraTier24 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier24
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier24/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier24/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier24.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier25.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier25/MCreatorAquaAuraTier25 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier25
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier25/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier25/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1119,1131]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1140,1152]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1165,1183]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1240,1254]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1312,1333]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1377,1398]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1467,1482]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier25.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier3.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier3/MCreatorAquaAuraTier3 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier3
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier3/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier3/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1115,1127]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1136,1148]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1161,1179]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1234,1248]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1306,1327]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1371,1392]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1461,1476]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier3.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier4.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier4/MCreatorAquaAuraTier4 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier4
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier4/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier4/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1115,1127]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1136,1148]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1161,1179]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1234,1248]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1306,1327]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1371,1392]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1461,1476]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier4.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier5.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier5/MCreatorAquaAuraTier5 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier5
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier5/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier5/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1115,1127]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1136,1148]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1161,1179]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1234,1248]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1306,1327]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1371,1392]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1461,1476]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier5.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier6.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier6/MCreatorAquaAuraTier6 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier6
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier6/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier6/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1115,1127]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1136,1148]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1161,1179]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1234,1248]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1306,1327]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1371,1392]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1461,1476]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier6.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier7.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier7/MCreatorAquaAuraTier7 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier7
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier7/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier7/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1115,1127]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1136,1148]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1161,1179]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1234,1248]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1306,1327]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1371,1392]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1461,1476]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier7.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier8.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier8/MCreatorAquaAuraTier8 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier8
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier8/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier8/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1115,1127]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1136,1148]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1161,1179]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1234,1248]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1306,1327]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1371,1392]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1461,1476]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier8.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier9.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier9/MCreatorAquaAuraTier9 (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorAquaAuraTier9
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorAquaAuraTier9/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorAquaAuraTier9/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1115,1127]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1136,1148]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1161,1179]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1234,1248]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1306,1327]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1371,1392]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1461,1476]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorAquaAuraTier9.java
 
 Start Processing: net/mcreator/crystalcraft/MCreatorCreativeChamber.java
 New Key: class net/mcreator/crystalcraft/crystalcraft
@@ -71,7 +671,7 @@ Rename method net/minecraft/world/World/addWeatherEffect (Lnet/minecraft/entity/
 Rename method net/minecraft/world/World/addWeatherEffect (Lnet/minecraft/entity/Entity;)Z[2425,2441]::addWeatherEffect->func_72942_c
 Rename method net/minecraft/world/World/addWeatherEffect (Lnet/minecraft/entity/Entity;)Z[2521,2537]::addWeatherEffect->func_72942_c
 Rename method net/minecraft/world/World/addWeatherEffect (Lnet/minecraft/entity/Entity;)Z[2617,2633]::addWeatherEffect->func_72942_c
-Rename method net/minecraft/entity/player/EntityPlayer/setGameType (Lnet/minecraft/world/GameType;)V[2772,2783]::setGameType->func_71033_a
+Rename method net/minecraft/entity/player/EntityPlayer/setGameType (Lnet/minecraft/world/GameType;)V[3576,3587]::setGameType->func_71033_a
 Import: net.minecraft.world.WorldServer
 Import: net.minecraft.world.World
 Import: net.minecraft.world.GameType
@@ -83,6 +683,130 @@ Import: net.minecraft.entity.player.EntityPlayer
 Import: net.minecraft.entity.effect.EntityLightningBolt
 Import: net.minecraft.entity.Entity
 End  Processing: net/mcreator/crystalcraft/MCreatorCreativeChamberEvent.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorCrystal.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorCrystal/MCreatorCrystal (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorCrystal
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorCrystal/ItemCustom/ItemCustom ()V net/mcreator/crystalcraft/MCreatorCrystal/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1091,1103]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1112,1124]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1137,1155]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1198,1212]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1270,1291]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1335,1356]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1425,1440]::getDestroySpeed->func_150893_a
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 4 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+End  Processing: net/mcreator/crystalcraft/MCreatorCrystal.java
+
+Start Processing: net/mcreator/crystalcraft/MCreatorCrystalChamber.java
+New Key: class net/mcreator/crystalcraft/crystalcraft
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorCrystalChamber/MCreatorCrystalChamber (Lnet/mcreator/crystalcraft/crystalcraft;)V net/mcreator/crystalcraft/MCreatorCrystalChamber
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[2237,2253]::getItemFromBlock->func_150898_a
+FOUND CONSTR method net/mcreator/crystalcraft/MCreatorCrystalChamber/BlockCustom/BlockCustom ()V net/mcreator/crystalcraft/MCreatorCrystalChamber/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[2473,2477]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[2533,2551]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[2570,2582]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/STONE[2594,2599]::STONE->field_185851_d
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[2650,2661]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[2673,2686]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[2697,2710]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[2723,2738]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[2745,2759]::setCreativeTab->func_149647_a
+Rename method net/minecraft/block/Block/getBlockLayer ()Lnet/minecraft/util/BlockRenderLayer;[2857,2870]::getBlockLayer->func_180664_k
+Rename method net/minecraft/block/Block/isFullCube (Lnet/minecraft/block/state/IBlockState;)Z[2948,2958]::isFullCube->func_149686_d
+Rename method net/minecraft/block/Block/getBoundingBox (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;[3045,3059]::getBoundingBox->func_185496_a
+Rename method net/minecraft/block/Block/isOpaqueCube (Lnet/minecraft/block/state/IBlockState;)Z[3211,3223]::isOpaqueCube->func_149662_c
+Rename method net/minecraft/block/ITileEntityProvider/createNewTileEntity (Lnet/minecraft/world/World;I)Lnet/minecraft/tileentity/TileEntity;[3305,3324]::createNewTileEntity->func_149915_a
+Rename method net/minecraft/block/Block/eventReceived (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;II)Z[3419,3432]::eventReceived->func_189539_a
+Rename method net/minecraft/block/Block/eventReceived (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;II)Z[3522,3535]::eventReceived->func_189539_a
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[3615,3628]::getTileEntity->func_175625_s
+Rename method net/minecraft/tileentity/TileEntity/receiveClientEvent (II)Z[3686,3704]::receiveClientEvent->func_145842_c
+Rename method net/minecraft/block/Block/getRenderType (Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/util/EnumBlockRenderType;[3772,3785]::getRenderType->func_149645_b
+Rename method net/minecraft/block/Block/breakBlock (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V[3880,3890]::breakBlock->func_180663_b
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[3976,3989]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/InventoryHelper/dropInventoryItems (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/inventory/IInventory;)V[4016,4034]::dropInventoryItems->func_180175_a
+Rename method net/minecraft/world/World/removeTileEntity (Lnet/minecraft/util/math/BlockPos;)V[4084,4100]::removeTileEntity->func_175713_t
+Rename method net/minecraft/block/Block/breakBlock (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V[4114,4124]::breakBlock->func_180663_b
+Rename method net/minecraft/block/Block/hasComparatorInputOverride (Lnet/minecraft/block/state/IBlockState;)Z[4186,4212]::hasComparatorInputOverride->func_149740_M
+Rename method net/minecraft/block/Block/getComparatorInputOverride (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)I[4272,4298]::getComparatorInputOverride->func_180641_l
+Rename method net/minecraft/world/IBlockAccess/getTileEntity (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/tileentity/TileEntity;[4377,4390]::getTileEntity->func_175625_s
+Rename method net/minecraft/inventory/Container/calcRedstoneFromInventory (Lnet/minecraft/inventory/IInventory;)I[4467,4492]::calcRedstoneFromInventory->func_94526_b
+Rename method net/minecraft/util/NonNullList/withSize (ILjava/lang/Object;)Lnet/minecraft/util/NonNullList;[4688,4696]::withSize->func_191197_a
+Rename field net/minecraft/item/ItemStack/EMPTY[4715,4720]::EMPTY->field_190927_a
+Rename method net/minecraft/inventory/IInventory/getSizeInventory ()I[4761,4777]::getSizeInventory->func_70302_i_
+Rename method net/minecraft/inventory/IInventory/isEmpty ()Z[4831,4838]::isEmpty->func_191420_l
+Rename method net/minecraft/item/ItemStack/isEmpty ()Z[4913,4920]::isEmpty->func_190926_b
+Rename method net/minecraft/inventory/IInventory/isItemValidForSlot (ILnet/minecraft/item/ItemStack;)Z[5005,5023]::isItemValidForSlot->func_94041_b
+Rename method net/minecraft/inventory/IInventory/getStackInSlot (I)Lnet/minecraft/item/ItemStack;[5105,5119]::getStackInSlot->func_70301_a
+Rename method net/minecraft/world/IWorldNameable/getName ()Ljava/lang/String;[5196,5203]::getName->func_70005_c_
+Rename method net/minecraft/world/IWorldNameable/hasCustomName ()Z[5230,5243]::hasCustomName->func_145818_k_
+Rename field net/minecraft/tileentity/TileEntityLockableLoot/customName[5254,5264]::customName->field_190577_o
+Rename method net/minecraft/tileentity/TileEntity/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[5334,5345]::readFromNBT->func_145839_a
+Rename method net/minecraft/tileentity/TileEntity/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[5385,5396]::readFromNBT->func_145839_a
+Rename method net/minecraft/util/NonNullList/withSize (ILjava/lang/Object;)Lnet/minecraft/util/NonNullList;[5452,5460]::withSize->func_191197_a
+Rename method net/minecraft/inventory/IInventory/getSizeInventory ()I[5471,5487]::getSizeInventory->func_70302_i_
+Rename field net/minecraft/item/ItemStack/EMPTY[5498,5503]::EMPTY->field_190927_a
+Rename method net/minecraft/tileentity/TileEntityLockableLoot/checkLootAndRead (Lnet/minecraft/nbt/NBTTagCompound;)Z[5529,5545]::checkLootAndRead->func_184283_b
+Rename method net/minecraft/inventory/ItemStackHelper/loadAllItems (Lnet/minecraft/nbt/NBTTagCompound;Lnet/minecraft/util/NonNullList;)V[5575,5587]::loadAllItems->func_191283_b
+Rename method net/minecraft/nbt/NBTTagCompound/hasKey (Ljava/lang/String;I)Z[5630,5636]::hasKey->func_150297_b
+Rename field net/minecraft/tileentity/TileEntityLockableLoot/customName[5672,5682]::customName->field_190577_o
+Rename method net/minecraft/nbt/NBTTagCompound/getString (Ljava/lang/String;)Ljava/lang/String;[5698,5707]::getString->func_74779_i
+Rename method net/minecraft/tileentity/TileEntity/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[5771,5781]::writeToNBT->func_189515_b
+Rename method net/minecraft/tileentity/TileEntity/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[5822,5832]::writeToNBT->func_189515_b
+Rename method net/minecraft/tileentity/TileEntityLockableLoot/checkLootAndWrite (Lnet/minecraft/nbt/NBTTagCompound;)Z[5861,5878]::checkLootAndWrite->func_184282_c
+Rename method net/minecraft/inventory/ItemStackHelper/saveAllItems (Lnet/minecraft/nbt/NBTTagCompound;Lnet/minecraft/util/NonNullList;)Lnet/minecraft/nbt/NBTTagCompound;[5907,5919]::saveAllItems->func_191282_a
+Rename method net/minecraft/world/IWorldNameable/hasCustomName ()Z[5958,5971]::hasCustomName->func_145818_k_
+Rename method net/minecraft/nbt/NBTTagCompound/setString (Ljava/lang/String;Ljava/lang/String;)V[5990,5999]::setString->func_74778_a
+Rename field net/minecraft/tileentity/TileEntityLockableLoot/customName[6022,6032]::customName->field_190577_o
+Rename method net/minecraft/inventory/IInventory/getInventoryStackLimit ()I[6094,6116]::getInventoryStackLimit->func_70297_j_
+Rename method net/minecraft/world/IInteractionObject/getGuiID ()Ljava/lang/String;[6164,6172]::getGuiID->func_174875_k
+Rename method net/minecraft/world/IInteractionObject/createContainer (Lnet/minecraft/entity/player/InventoryPlayer;Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/inventory/Container;[6264,6279]::createContainer->func_174876_a
+Rename method net/minecraft/tileentity/TileEntityLockableLoot/fillWithLoot (Lnet/minecraft/entity/player/EntityPlayer;)V[6345,6357]::fillWithLoot->func_184281_d
+Rename method net/minecraft/tileentity/TileEntityLockableLoot/getItems ()Lnet/minecraft/util/NonNullList;[6484,6492]::getItems->func_190576_q
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.client.model.ModelLoader
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 25 imports
+        net.minecraft.block.Block
+        net.minecraft.block.ITileEntityProvider
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.entity.player.EntityPlayer
+        net.minecraft.entity.player.InventoryPlayer
+        net.minecraft.inventory.Container
+        net.minecraft.inventory.ContainerDispenser
+        net.minecraft.inventory.InventoryHelper
+        net.minecraft.inventory.ItemStackHelper
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+        net.minecraft.item.ItemStack
+        net.minecraft.nbt.NBTTagCompound
+        net.minecraft.tileentity.TileEntity
+        net.minecraft.tileentity.TileEntityLockableLoot
+        net.minecraft.util.BlockRenderLayer
+        net.minecraft.util.EnumBlockRenderType
+        net.minecraft.util.NonNullList
+        net.minecraft.util.math.AxisAlignedBB
+        net.minecraft.util.math.BlockPos
+        net.minecraft.world.IBlockAccess
+        net.minecraft.world.World
+End  Processing: net/mcreator/crystalcraft/MCreatorCrystalChamber.java
 
 Start Processing: net/mcreator/crystalcraft/MCreatorCrystalIngot.java
 New Key: class net/mcreator/crystalcraft/crystalcraft
@@ -179,9 +903,16 @@ Adding 2 imports
         net.minecraft.item.ItemStack
 End  Processing: net/mcreator/crystalcraft/MCreatorCrystalTab.java
 
+Start Processing: net/mcreator/crystalcraft/MyTimer.java
+FOUND CONSTR method net/mcreator/crystalcraft/MyTimer/MyTimer (JLnet/mcreator/crystalcraft/MyTimerEvent;)V net/mcreator/crystalcraft/MyTimer
+End  Processing: net/mcreator/crystalcraft/MyTimer.java
+
+Start Processing: net/mcreator/crystalcraft/MyTimerEvent.java
+End  Processing: net/mcreator/crystalcraft/MyTimerEvent.java
+
 Start Processing: net/mcreator/crystalcraft/crystalcraft.java
 FOUND CONSTR method net/mcreator/crystalcraft/crystalcraft/crystalcraft ()V net/mcreator/crystalcraft/crystalcraft
-Rename field net/minecraft/world/World/provider[3292,3300]::provider->field_73011_w
+Rename field net/minecraft/world/World/provider[4653,4661]::provider->field_73011_w
 New Key: class net/minecraftforge/event/RegistryEvent
 New Key: class net/minecraftforge/event/RegistryEvent
 New Key: class net/minecraftforge/event/RegistryEvent

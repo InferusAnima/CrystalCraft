@@ -59,6 +59,33 @@ public class crystalcraft implements IFuelHandler, IWorldGenerator {
 		elements.add(new MCreatorCrystalTab(this));
 		elements.add(new MCreatorCreativeChamber(this));
 		elements.add(new MCreatorCreativeChamberEvent(this));
+		elements.add(new MCreatorAquaAuraTier1(this));
+		elements.add(new MCreatorAquaAuraTier2(this));
+		elements.add(new MCreatorAquaAuraTier3(this));
+		elements.add(new MCreatorAquaAuraTier4(this));
+		elements.add(new MCreatorAquaAuraTier5(this));
+		elements.add(new MCreatorAquaAuraTier6(this));
+		elements.add(new MCreatorAquaAuraTier7(this));
+		elements.add(new MCreatorAquaAuraTier8(this));
+		elements.add(new MCreatorAquaAuraTier9(this));
+		elements.add(new MCreatorAquaAuraTier10(this));
+		elements.add(new MCreatorAquaAuraTier11(this));
+		elements.add(new MCreatorAquaAuraTier12(this));
+		elements.add(new MCreatorAquaAuraTier13(this));
+		elements.add(new MCreatorAquaAuraTier14(this));
+		elements.add(new MCreatorAquaAuraTier15(this));
+		elements.add(new MCreatorAquaAuraTier16(this));
+		elements.add(new MCreatorAquaAuraTier17(this));
+		elements.add(new MCreatorAquaAuraTier18(this));
+		elements.add(new MCreatorAquaAuraTier19(this));
+		elements.add(new MCreatorAquaAuraTier20(this));
+		elements.add(new MCreatorAquaAuraTier21(this));
+		elements.add(new MCreatorAquaAuraTier22(this));
+		elements.add(new MCreatorAquaAuraTier23(this));
+		elements.add(new MCreatorAquaAuraTier24(this));
+		elements.add(new MCreatorAquaAuraTier25(this));
+		elements.add(new MCreatorCrystal(this));
+		elements.add(new MCreatorCrystalChamber(this));
 	}
 
 	@Override

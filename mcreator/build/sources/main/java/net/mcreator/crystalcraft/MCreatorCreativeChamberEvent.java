@@ -60,6 +60,34 @@ public class MCreatorCreativeChamberEvent extends crystalcraft.ModElement {
 			world.addWeatherEffect(new EntityLightningBolt(world, (int) x, (int) y, (int) (z + 4), false));
 			world.addWeatherEffect(new EntityLightningBolt(world, (int) (x - 4), (int) y, (int) z, false));
 			world.addWeatherEffect(new EntityLightningBolt(world, (int) x, (int) y, (int) (z - 4), false));
+			/*new MyTimer(1000, new MyTimerEvent() {
+
+				@Override
+				public void run() {
+      				world.addWeatherEffect(new EntityLightningBolt(world, (int) (x + 4), (int) y, (int) z, false));
+				}
+			});
+			new MyTimer(1000, new MyTimerEvent() {
+
+				@Override
+				public void run() {
+      				world.addWeatherEffect(new EntityLightningBolt(world, (int) x, (int) y, (int) (z + 4), false));
+				}
+			});
+			new MyTimer(1000, new MyTimerEvent() {
+
+				@Override
+				public void run() {
+      				world.addWeatherEffect(new EntityLightningBolt(world, (int) (x - 4), (int) y, (int) z, false));
+				}
+			});
+			new MyTimer(1000, new MyTimerEvent() {
+
+				@Override
+				public void run() {
+      				world.addWeatherEffect(new EntityLightningBolt(world, (int) x, (int) y, (int) (z - 4), false));
+				}
+			});*/
 			if (entity instanceof EntityPlayer)
 				((EntityPlayer) entity).setGameType(GameType.CREATIVE);
 		}
