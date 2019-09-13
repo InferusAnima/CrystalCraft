@@ -12,6 +12,8 @@ import net.minecraft.world.IBlockAccess;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.AxisAlignedBB;
 import net.minecraft.util.NonNullList;
+import net.minecraft.util.EnumHand;
+import net.minecraft.util.EnumFacing;
 import net.minecraft.util.EnumBlockRenderType;
 import net.minecraft.util.BlockRenderLayer;
 import net.minecraft.tileentity.TileEntityLockableLoot;
@@ -32,6 +34,8 @@ import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.ITileEntityProvider;
 import net.minecraft.block.Block;
+
+import java.util.HashMap;
 
 public class MCreatorCrystalChamber extends crystalcraft.ModElement {
 
@@ -88,6 +92,11 @@ public class MCreatorCrystalChamber extends crystalcraft.ModElement {
 		}
 
 		@Override
+		public int tickRate(World world) {
+			return 30;
+		}
+
+		@Override
 		public boolean isOpaqueCube(IBlockState state) {
 			return false;
 		}
@@ -130,15 +139,55 @@ public class MCreatorCrystalChamber extends crystalcraft.ModElement {
 			else
 				return 0;
 		}
+
+		@Override
+		public void neighborChanged(IBlockState state, World world, BlockPos pos, Block neighborBlock, BlockPos fromPos) {
+			super.neighborChanged(state, world, pos, neighborBlock, fromPos);
+			int x = pos.getX();
+			int y = pos.getY();
+			int z = pos.getZ();
+			Block block = this;
+			if (world.isBlockIndirectlyGettingPowered(new BlockPos(x, y, z)) > 0) {
+				{
+					java.util.HashMap<String, Object> $_dependencies = new java.util.HashMap<>();
+					$_dependencies.put("x", x);
+					$_dependencies.put("y", y);
+					$_dependencies.put("z", z);
+					$_dependencies.put("world", world);
+					MCreatorCrystalChamberEvent.executeProcedure($_dependencies);
+				}
+			} else {
+			}
+		}
+
+		@Override
+		public boolean onBlockActivated(World world, BlockPos pos, IBlockState state, EntityPlayer entity, EnumHand hand, EnumFacing side,
+				float hitX, float hitY, float hitZ) {
+			super.onBlockActivated(world, pos, state, entity, hand, side, hitX, hitY, hitZ);
+			int x = pos.getX();
+			int y = pos.getY();
+			int z = pos.getZ();
+			Block block = this;
+			{
+				java.util.HashMap<String, Object> $_dependencies = new java.util.HashMap<>();
+				$_dependencies.put("entity", entity);
+				$_dependencies.put("x", x);
+				$_dependencies.put("y", y);
+				$_dependencies.put("z", z);
+				$_dependencies.put("world", world);
+				MCreatorCrystalChamberGUIOpen.executeProcedure($_dependencies);
+			}
+			return true;
+		}
 	}
 
 	public static class TileEntityCustom extends TileEntityLockableLoot {
 
-		private NonNullList<ItemStack> stacks = NonNullList.<ItemStack> withSize(3, ItemStack.EMPTY);
+		private NonNullList<ItemStack> stacks = NonNullList.<ItemStack> withSize(2, ItemStack.EMPTY);
 
 		@Override
 		public int getSizeInventory() {
-			return 3;
+			return 2;
 		}
 
 		@Override
@@ -151,6 +200,8 @@ public class MCreatorCrystalChamber extends crystalcraft.ModElement {
 
 		@Override
 		public boolean isItemValidForSlot(int index, ItemStack stack) {
+			if (index == 1)
+				return false;
 			return true;
 		}
 

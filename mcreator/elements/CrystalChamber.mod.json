@@ -42,7 +42,7 @@
     "material": {
       "value": "ROCK"
     },
-    "tickRate": 10,
+    "tickRate": 30,
     "isNotColidable": false,
     "soundOnStep": {
       "value": "STONE"
@@ -59,11 +59,19 @@
     "particleAmount": 4,
     "particleSpawningCondition": "ALWAYS",
     "hasInventory": true,
-    "inventorySize": 3,
+    "inventorySize": 2,
     "inventoryStackSize": 64,
     "inventoryDropWhenDestroyed": true,
     "inventoryComparatorPower": true,
-    "inventoryOutSlotIDs": [],
+    "inventoryOutSlotIDs": [
+      1
+    ],
+    "onRightClicked": {
+      "name": "CrystalChamberGUIOpen"
+    },
+    "onRedstoneOn": {
+      "name": "CrystalChamberEvent"
+    },
     "spawnWorldTypes": [],
     "restricPerBiome": false,
     "restrictionBiomes": [],

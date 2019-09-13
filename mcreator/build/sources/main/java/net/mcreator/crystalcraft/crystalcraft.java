@@ -86,6 +86,9 @@ public class crystalcraft implements IFuelHandler, IWorldGenerator {
 		elements.add(new MCreatorAquaAuraTier25(this));
 		elements.add(new MCreatorCrystal(this));
 		elements.add(new MCreatorCrystalChamber(this));
+		elements.add(new MCreatorCrystalChamberEvent(this));
+		elements.add(new MCreatorCrystalChamberGUI(this));
+		elements.add(new MCreatorCrystalChamberGUIOpen(this));
 	}
 
 	@Override
@@ -163,11 +166,15 @@ public class crystalcraft implements IFuelHandler, IWorldGenerator {
 
 		@Override
 		public Object getServerGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
+			if (id == MCreatorCrystalChamberGUI.GUIID)
+				return new MCreatorCrystalChamberGUI.GuiContainerMod(world, x, y, z, player);
 			return null;
 		}
 
 		@Override
 		public Object getClientGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
+			if (id == MCreatorCrystalChamberGUI.GUIID)
+				return new MCreatorCrystalChamberGUI.GuiWindow(world, x, y, z, player);
 			return null;
 		}
 	}
