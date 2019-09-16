@@ -1,0 +1,42 @@
+{
+  "group": "crystalcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "crystalcraft:crystal"
+    },
+    "1": {
+      "item": "crystalcraft:crystal"
+    },
+    "2": {
+      "item": "crystalcraft:crystal"
+    },
+    "3": {
+      "item": "crystalcraft:crystal"
+    },
+    "4": {
+      "item": "crystalcraft:crystal"
+    },
+    "5": {
+      "item": "crystalcraft:crystal"
+    },
+    "6": {
+      "item": "crystalcraft:crystal"
+    },
+    "7": {
+      "item": "crystalcraft:crystal"
+    },
+    "8": {
+      "item": "crystalcraft:crystal"
+    }
+  },
+  "result": {
+    "item": "crystalcraft:aquaauratier1",
+    "count": 1
+  }
+}
