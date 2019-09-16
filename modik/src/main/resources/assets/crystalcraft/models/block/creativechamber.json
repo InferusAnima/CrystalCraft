@@ -1,0 +1,9 @@
+{
+  "parent": "crystalcraft:custom/creativechamber",
+  "textures": {
+    "all": "crystalcraft:blocks/void_block",
+    "particle": "crystalcraft:blocks/void_block",
+    "void_block": "crystalcraft:blocks/void_block",
+    "iron_block": "crystalcraft:blocks/iron_block"
+  }
+}

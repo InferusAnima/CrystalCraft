@@ -1,0 +1,16 @@
+[
+{
+  "modid": "crystalcraft",
+  "name": "Crystal Craft",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "assets/crystalcraft/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
