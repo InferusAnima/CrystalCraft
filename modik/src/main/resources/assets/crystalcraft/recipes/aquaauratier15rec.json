@@ -1,0 +1,18 @@
+{
+  "group": "crystalcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 0 ",
+    "000",
+    " 0 "
+  ],
+  "key": {
+    "0": {
+      "item": "crystalcraft:aquaauratier14"
+    }
+  },
+  "result": {
+    "item": "crystalcraft:aquaauratier15",
+    "count": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 3,
+  "_type": "recipe",
+  "definition": {
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:AquaAuraTier2"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AquaAuraTier1"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AquaAuraTier1"
+      },
+      {
+        "value": "CUSTOM:AquaAuraTier1"
+      },
+      {
+        "value": "CUSTOM:AquaAuraTier1"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AquaAuraTier1"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "smeltingXPReward": 1.0,
+    "smeltingRetstackSize": 1
+  }
+}

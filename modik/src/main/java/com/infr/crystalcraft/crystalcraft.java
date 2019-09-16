@@ -90,7 +90,6 @@ public class crystalcraft implements IFuelHandler, IWorldGenerator {
 		elements.add(new MCreatorCrystalChamberGUI(this));
 		elements.add(new MCreatorCrystalChamberGUIOpen(this));
 		elements.add(new MCreatorCrystalIngotRec(this));
-		elements.add(new MCreatorAquaAuraTier1Rec(this));
 	}
 
 	@Override
