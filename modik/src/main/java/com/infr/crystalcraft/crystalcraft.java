@@ -1,40 +1,39 @@
 package com.infr.crystalcraft;
 
-import net.minecraftforge.fml.relauncher.SideOnly;
-import net.minecraftforge.fml.relauncher.Side;
-import net.minecraftforge.fml.common.registry.GameRegistry;
-import net.minecraftforge.fml.common.registry.EntityEntry;
-import net.minecraftforge.fml.common.network.NetworkRegistry;
-import net.minecraftforge.fml.common.network.IGuiHandler;
-import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
-import net.minecraftforge.fml.common.event.FMLServerStartingEvent;
-import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
-import net.minecraftforge.fml.common.event.FMLInitializationEvent;
-import net.minecraftforge.fml.common.SidedProxy;
-import net.minecraftforge.fml.common.Mod.Instance;
-import net.minecraftforge.fml.common.Mod.EventHandler;
-import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.common.IWorldGenerator;
-import net.minecraftforge.fml.common.IFuelHandler;
-import net.minecraftforge.fluids.FluidRegistry;
-import net.minecraftforge.event.RegistryEvent;
-import net.minecraftforge.common.MinecraftForge;
-import net.minecraftforge.client.event.ModelRegistryEvent;
-
-import net.minecraft.world.gen.IChunkGenerator;
-import net.minecraft.world.chunk.IChunkProvider;
-import net.minecraft.world.biome.Biome;
-import net.minecraft.world.World;
-import net.minecraft.potion.Potion;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.Item;
-import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.block.Block;
+import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
+import net.minecraft.potion.Potion;
+import net.minecraft.world.World;
+import net.minecraft.world.biome.Biome;
+import net.minecraft.world.chunk.IChunkProvider;
+import net.minecraft.world.gen.IChunkGenerator;
+import net.minecraftforge.client.event.ModelRegistryEvent;
+import net.minecraftforge.common.MinecraftForge;
+import net.minecraftforge.event.RegistryEvent;
+import net.minecraftforge.fluids.FluidRegistry;
+import net.minecraftforge.fml.common.IFuelHandler;
+import net.minecraftforge.fml.common.IWorldGenerator;
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.common.Mod.EventHandler;
+import net.minecraftforge.fml.common.Mod.Instance;
+import net.minecraftforge.fml.common.SidedProxy;
+import net.minecraftforge.fml.common.event.FMLInitializationEvent;
+import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import net.minecraftforge.fml.common.event.FMLServerStartingEvent;
+import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+import net.minecraftforge.fml.common.network.IGuiHandler;
+import net.minecraftforge.fml.common.network.NetworkRegistry;
+import net.minecraftforge.fml.common.registry.EntityEntry;
+import net.minecraftforge.fml.common.registry.GameRegistry;
+import net.minecraftforge.fml.relauncher.Side;
+import net.minecraftforge.fml.relauncher.SideOnly;
 
-import java.util.function.Supplier;
-import java.util.Random;
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
+import java.util.Random;
+import java.util.function.Supplier;
 
 @Mod(modid = crystalcraft.MODID, version = crystalcraft.VERSION)
 public class crystalcraft implements IFuelHandler, IWorldGenerator {
