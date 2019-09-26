@@ -1,7 +1,6 @@
 package com.infr.crystalcraft;
 
 import net.minecraft.init.Blocks;
-import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
@@ -28,6 +27,6 @@ public class CrystalCraft
     public void init(FMLInitializationEvent event)
     {
         // some example code
-        logger.info("DIRT BLOCK >> {}", Blocks.DIRT.getUnlocalizedName());
+        logger.info("DIRT BLOCK >> {}", Blocks.DIRT.getLocalizedName());
     }
 }
