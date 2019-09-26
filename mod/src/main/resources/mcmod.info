@@ -1,15 +1,15 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "crystalcraft",
+  "name": "Crystal Craft",
+  "description": "A mod, that adds millions of crystals",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
+  "authorList": ["INFR"],
+  "credits": "By INFR",
+  "logoFile": "assets/crystalcraft/logo.png",
   "screenshots": [],
   "dependencies": []
 }
