@@ -1,0 +1,16 @@
+[
+{
+  "modid": "crystalcraft",
+  "name": "Crystal Craft",
+  "description": "A mod, that adds millions of crystals",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["INFR"],
+  "credits": "By INFR",
+  "logoFile": "assets/crystalcraft/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
